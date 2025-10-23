@@ -105,7 +105,6 @@ class RagnosisAI {
             if (msg.role === 'user') {
                 this.addMessage(msg.content, 'user');
             } else if (msg.role === 'assistant') {
-                // For assistant messages, we need to parse the full response structure
                 this.addBotMessage(msg.content, msg.sources || [], msg.follow_up_questions || []);
             }
         });
@@ -118,14 +117,17 @@ class RagnosisAI {
             <div class="message bot-message">
                 <div class="avatar bot-avatar">🤖</div>
                 <div class="message-content">
-                    <strong>👋 Welcome back! I'm Ragnosis AI</strong><br><br>
-                    I'm your friendly AI health companion! I remember our previous conversation and I'm here to continue helping you.<br><br>
-                    💬 <strong>You can ask me:</strong><br>
-                    • Medical questions and symptoms<br>
-                    • Health information and explanations<br>
-                    • Treatment options and prevention<br>
+                    <strong>👋 Hello! I'm Ragnosis AI</strong><br><br>
+                    Your friendly AI health companion! I'm here to help with medical questions, health information, and wellness guidance.<br><br>
+                    💬 <strong>You can ask me about:</strong><br>
+                    • Symptoms and conditions<br>
+                    • Treatment options<br>
+                    • Medical explanations<br>
+                    • Health advice<br>
                     • Or just have a friendly chat!<br><br>
-                    What would you like to know today? 😊
+                    <div class="disclaimer-inline">
+                    💡 Remember: I'm an AI assistant for informational purposes. Always consult healthcare professionals for medical advice, diagnoses, or treatment.
+                    </div>
                 </div>
             </div>
         `;
@@ -146,6 +148,11 @@ class RagnosisAI {
 
     updateSendButtonState() {
         this.sendButton.disabled = this.messageInput.value.trim() === '' || this.isProcessing;
+        if (this.isProcessing) {
+            this.sendButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
+        } else {
+            this.sendButton.innerHTML = '<i class="fas fa-paper-plane"></i>';
+        }
     }
 
     async handleSendMessage() {
@@ -216,7 +223,7 @@ class RagnosisAI {
         const payload = {
             question: message,
             session_id: this.sessionId,
-            conversation_history: this.conversationHistory.slice(-10) // Send last 10 messages for context
+            conversation_history: this.conversationHistory.slice(-10)
         };
 
         const response = await fetch(`${this.API_BASE}/ask`, {
@@ -229,6 +236,7 @@ class RagnosisAI {
         });
 
         if (!response.ok) {
+            // Even if the request fails, we'll handle it gracefully in the UI
             throw new Error(`API request failed: ${response.status}`);
         }
         
