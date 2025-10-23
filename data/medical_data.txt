@@ -1,0 +1,608 @@
+# Cardiovascular Diseases
+Hypertension: Also known as high blood pressure, is a condition where the blood pressure in the arteries is persistently elevated. Normal blood pressure is 120/80 mmHg. Stage 1 hypertension is 130-139/80-89 mmHg. Risk factors include family history, obesity, and high salt intake. Treatment involves lifestyle modifications and medications like ACE inhibitors or diuretics.
+
+Diabetes Mellitus Type 2: A metabolic disorder characterized by high blood sugar, insulin resistance, and relative lack of insulin. Symptoms include increased thirst (polydipsia), frequent urination (polyuria), increased hunger (polyphagia), and blurred vision. Long-term complications include cardiovascular disease, stroke, and kidney failure. Management includes diet, exercise, metformin, and possibly insulin therapy.
+
+Influenza: An acute viral infection of the respiratory tract. Symptoms include sudden onset of fever, cough (usually dry), headache, muscle and joint pain, severe malaise, sore throat, and runny nose. The cough can be severe and can last 2 or more weeks. Annual vaccination is the most effective way to prevent infection.
+
+Asthma: A chronic inflammatory disease of the airways characterized by variable and recurring symptoms, reversible airflow obstruction, and bronchospasm. Common symptoms include wheezing, coughing, chest tightness, and shortness of breath. Treatment involves bronchodilators for quick relief and inhaled corticosteroids for long-term control.
+
+Migraine: A primary headache disorder characterized by recurrent headaches that are moderate to severe. Typically, episodes affect one side of the head, are pulsating in nature, and last from a few hours to three days. Associated symptoms may include nausea, vomiting, and sensitivity to light, sound, or smell. Preventive medications include beta blockers and anticonvulsants.
+
+
+#NEW DATA v2
+
+DIAGONISIS OF DISEASES
+1.	Classifications and causes of diseases.
+2.	Symptoms and signs.
+3.	Diagnosis.
+4.	Treatment and management.
+5.	Prevention.
+
+1. Template
+1. Classification & Causes
+•	Classification (e.g., infectious vs non infectious, by organ system, by mechanism).
+•	Causes / risk factors (genetic, environmental, lifestyle, pathogens, etc.)
+2. Symptoms & Signs
+•	What the patient feels (symptoms)
+•	What the doctor observes (signs)
+3. Diagnosis
+•	Clinical evaluation, history, physical exam
+•	Laboratory investigations, imaging, special tests
+•	Diagnostic criteria if applicable
+4. Treatment & Management
+•	Acute treatment, chronic management
+•	Medications, procedures, lifestyle modifications
+•	Monitoring, follow up
+5. Prevention
+•	Primary prevention (preventing onset)
+•	Secondary prevention (early detection)
+•	Tertiary prevention (preventing complications)
+
+2. Diabetes Mellitus
+1. Classification & Causes
+•	Classification: Non communicable metabolic disease (affecting glucose metabolism)
+•	Causes & risk factors: Insulin resistance, impaired insulin secretion; associated with overweight/obesity, sedentary lifestyle, poor diet, genetic predisposition
+2. Symptoms & Signs
+•	Symptoms: Increased thirst, frequent urination, fatigue, blurred vision, slow wound healing
+•	Signs: Elevated blood glucose levels, overweight/obesity, possible skin changes (acanthosis nigricans)
+3. Diagnosis
+•	Clinical: history of risk factors + symptoms
+•	Laboratory: Fasting plasma glucose ≥126 mg/dL, HbA1c ≥6.5%, 2 hour OGTT ≥200 mg/dL (depending on guideline)
+•	Other tests: Assess for complications (kidney, eye, nerves)
+4. Treatment & Management
+•	Lifestyle: weight reduction, healthy diet, regular exercise
+•	Medications: oral hypoglycaemics (metformin, etc.), possibly insulin in advanced cases
+•	Monitoring: regular HbA1c, blood glucose, screening for complications (retinopathy, nephropathy, neuropathy)
+•	Management of comorbidities: hypertension, dyslipidaemia
+5. Prevention
+•	Primary: Maintain healthy weight, active lifestyle, balanced diet, avoid smoking
+•	Secondary: Early screening in high risk groups (obese, family history)
+•	Tertiary: Good glycaemic control to prevent/slow complications
+3. Human Immunodeficiency Virus (HIV) infection / Acquired Immunodeficiency Syndrome (AIDS)
+Classification & Causes
+•	Classification: Infectious disease caused by a viral pathogen (HIV), leading to acquired immunodeficiency (AIDS is the advanced stage). Hopkins Medicine+2World Health Organization+2
+•	Cause: Infection with the human immunodeficiency virus (HIV) which attacks CD4+ T cells and weakens the immune system. World Health Organization+1
+•	Transmission: Via body fluids (blood, semen, vaginal fluids, breast milk), unprotected sex, sharing needles, mother to child transmission. Mayo Clinic+1
+Symptoms & Signs
+•	Early (acute) phase: may have flu like illness (fever, headache, rash, sore throat) or be asymptomatic. World Health Organization+1
+•	Chronic untreated phase: swollen lymph nodes, weight loss, persistent fever, diarrhoea, recurrent infections. Mayo Clinic+1
+•	When progressed to AIDS: very low CD4 count (< 200 cells/mm³) or presence of opportunistic infections/cancers (e.g., tuberculosis, Kaposi sarcoma) Hopkins Medicine+1
+Diagnosis
+•	Laboratory testing for HIV antibodies/antigens (e.g., 4th generation tests) or viral load. Hopkins Medicine
+•	CD4 count measurement to assess immune status. Hopkins Medicine
+•	Clinical evaluation of opportunistic infections or AIDS defining illnesses.
+Treatment & Management
+•	Antiretroviral therapy (ART) to suppress viral replication, maintain immune function, and prevent transmission. World Health Organization+1
+•	Monitoring of viral load, CD4 count, and management of opportunistic infections and comorbidities.
+•	Lifelong adherence to therapy.
+Prevention
+•	Safe sex practices (condoms), needle exchange programs, safe blood transfusion practices.
+•	Mother to child transmission prevention (ART in pregnancy, safer breastfeeding practices).
+•	Pre  and post exposure prophylaxis (PrEP/PEP) in high risk populations.
+•	Education, testing and screening to identify infections early.
+4. Tuberculosis (TB)
+Classification & Causes
+•	Classification: Infectious disease caused by bacteria (Mycobacterium tuberculosis). World Health Organization+1
+•	Cause: Transmission by inhalation of airborne droplets from a person with active pulmonary TB. World Health Organization+1
+•	Risk factors: HIV infection, malnutrition, diabetes, tobacco use, crowded living environments. World Health Organization
+Symptoms & Signs
+•	Pulmonary TB: prolonged cough (≥3 weeks), chest pain, cough up blood/sputum, weight loss, night sweats, fever, fatigue. CDC+1
+•	Extrapulmonary TB: symptoms depend on organ affected (e.g., spine pain, kidney symptoms).
+Diagnosis
+•	Sputum smear microscopy, culture, or rapid molecular tests (e.g., Xpert MTB/RIF) as recommended by WHO. World Health Organization+1
+•	Chest radiograph for pulmonary involvement; for latent TB, skin test (TST) or IGRA blood test. CDC+1
+Treatment & Management
+•	Standard treatment for drug susceptible TB: combination antibiotics (isoniazid, rifampicin, pyrazinamide, ethambutol) for 4–6 months. World Health Organization+1
+•	For drug resistant TB: longer, more complex regimens. World Health Organization
+•	Monitor adherence and manage side effects.
+Prevention
+•	BCG vaccination (in many countries) for children. World Health Organization
+•	Early detection and treatment of active cases to reduce transmission.
+•	Infection control in healthcare and congregate settings (ventilation, masks).
+•	Treat latent TB infection in high risk groups.
+5.Type 2 Diabetes Mellitus
+Classification & Causes
+•	Classification: Non communicable metabolic disease characterised by hyperglycaemia due to insulin resistance and/or inadequate insulin secretion. NIDDK+1
+•	Causes / risk factors: Overweight/obesity (especially central/visceral fat), physical inactivity, genetics/family history, unhealthy diet, older age. MedlinePlus
+Symptoms & Signs
+•	Often gradual and may be mild; symptoms include increased thirst, frequent urination, increased hunger, fatigue, blurred vision, numbness/tingling in feet/hands, slow healing sores. MedlinePlus+1
+•	Signs may include elevated blood glucose levels on testing, overweight/obesity, signs of complications (retinopathy, neuropathy).
+Diagnosis
+•	Blood tests: HbA1c (average glucose over ~3 months), fasting plasma glucose, random plasma glucose. MedlinePlus
+•	Consider screening in high risk individuals.
+Treatment & Management
+•	Lifestyle modification: weight loss, dietary changes, increased physical activity. NCBI
+•	Medications: first line often metformin; newer agents (SGLT2 inhibitors, GLP 1 receptor agonists) depending on comorbidities. NCBI
+•	Monitoring of complications: eye (retinopathy), kidney (nephropathy), nerves (neuropathy), cardiovascular risk.
+•	Individualised glycaemic targets based on age, comorbidities.
+Prevention
+•	Maintain healthy weight, stay physically active (≥150 minutes/week), eat balanced diet, avoid smoking. Cleveland Clinic+1
+•	Early detection of pre diabetes and intervention.
+•	Manage other risk factors: hypertension, dyslipidaemia6.Ischaemic Heart Disease (also called Coronary Artery Disease)
+•	of comorbidities.
+Prevention
+•	Maintain healthy lifestyle (diet, exercise), manage blood pressure and cholesterol, avoid tobacco, control diabetes. www.heart.org
+•	Regular health checkups for cardiovascular risk factors.
+6.	Ischaemic Heart Disease (also called Coronary Artery Disease)
+Classification & Causes
+•	Classification: Non communicable cardiovascular disease; damage to heart muscle due to insufficient blood supply (ischemia) via narrowed coronary arteries. www.heart.org
+•	Causes / risk factors: Atherosclerosis of coronary arteries, high blood pressure, high cholesterol, smoking, diabetes, sedentary lifestyle, obesity. www.heart.org
+Symptoms & Signs
+•	Typical symptom: angina (chest pain/pressure) often triggered by exertion or stress. www.heart.org
+•	Other symptoms: shortness of breath, sweating, nausea, indigestion like discomfort, dizziness, palpitations. www.heart.org
+•	Some may have silent ischemia (no symptoms). www.heart.org
+Diagnosis
+•	Clinical evaluation (history, risk factors, symptoms).
+•	Investigations: ECG, stress test, coronary angiography, imaging of coronary arteries, blood tests (lipids, troponin if acute).
+•	Assess for complications (heart attack, heart failure).
+Treatment & Management
+•	Lifestyle: smoking cessation, healthy diet, physical activity, weight management. www.heart.org
+•	Medications: anti anginal drugs (nitroglycerin), antiplatelets (aspirin), statins, blood pressure control, diabetic control if present.
+•	Procedures: coronary angioplasty (PCI), stenting, coronary artery bypass grafting (CABG) depending on severity.
+•	Long term monitoring of cardiac function, management of comorbidities.
+Prevention
+•	Maintain healthy lifestyle (diet, exercise), manage blood pressure and cholesterol, avoid tobacco, control diabetes. www.heart.org
+•	Regular health checkups for cardiovascular risk factors.
+7.	Stroke / Cerebrovascular Disease
+Classification & Causes
+•	Classification: Non communicable vascular neurological disease; abrupt interruption of blood supply to part of the brain (ischemic) or bleeding into brain (haemorrhagic) leading to brain dysfunction. AANS+1
+•	Causes:
+o	Ischaemic stroke: blocked artery (blood clot, atheroma) in the brain. Mayo Clinic
+o	Haemorrhagic stroke: bleeding in the brain from a ruptured vessel (aneurysm, AVM, uncontrolled hypertension). Mayo Clinic
+•	Risk factors: high blood pressure, diabetes, smoking, high cholesterol, obesity, heart arrhythmia (e.g., atrial fibrillation), substance abuse. Mayo Clinic+1
+Symptoms & Signs
+•	Sudden onset of one or more: weakness/numbness on one side (face, arm, leg), slurred speech or difficulty understanding, sudden vision problems, dizziness/loss of balance, severe headache (especially in haemorrhagic). AANS
+•	Other signs: acute confusion, difficulty walking, loss of coordination.
+Diagnosis
+•	Rapid neuroimaging (CT scan/ MRI) to distinguish ischemic vs haemorrhagic. Mayo Clinic+1
+•	Assessment of vascular risk factors (blood pressure, cholesterol, ECG for arrhythmia).
+•	Carotid ultrasound, angiography or other vascular studies in some cases.
+Treatment & Management
+•	Ischaemic stroke: emergency thrombolysis (e.g., tissue plasminogen activator (tPA) within time window ~4.5 h) or mechanical thrombectomy in selected cases. Mayo Clinic
+•	Haemorrhagic stroke: control bleeding, surgical clipping/coiling of aneurysms/AVMs, management of raised intracranial pressure. Mayo Clinic
+•	Rehabilitation: physiotherapy, occupational therapy, speech therapy to regain lost function. Mayo Clinic
+•	Secondary prevention: antiplatelet/anticoagulant therapy, control of risk factors.
+Prevention
+•	Control of hypertension, diabetes, high cholesterol; maintain healthy weight; quit smoking; exercise regularly; healthy diet (e.g., reduce salt, saturated fat). MedlinePlus+1
+•	In patients with high risk (e.g., atrial fibrillation) appropriate anticoagulation.
+8.Malaria
+1. Classification & Causes
+•	Classification: Infectious disease caused by protozoan parasites of the genus Plasmodium, transmitted by female Anopheles mosquitoes. World Health Organization+2CDC+2
+•	Causes: The parasites enter the human bloodstream via mosquito bite, migrate to the liver, then infect red blood cells. Risk factors include living/traveling in endemic tropical/subtropical regions, lack of mosquito control. Mayo Clinic+2Mayo Clinic+2
+•	Types: Multiple species (e.g., P. falciparum, P. vivax) — where P. falciparum is more likely to cause severe disease. CDC
+2. Symptoms & Signs
+•	Symptoms: May begin with fever, chills, headache, sweats, fatigue, nausea/vomiting. Mayo Clinic+1
+•	Signs/Complications: Severe malaria can cause anaemia (from red cell destruction), respiratory distress, cerebral malaria (neurological involvement), multi organ failure. World Health Organization+1
+•	Relapsing forms: Some species may persist and cause recurrences. Mayo Clinic
+3. Diagnosis
+•	Clinical suspicion in endemic areas (fever, travel history). However symptoms overlap with many other infections. CDC+1
+•	Laboratory tests: Blood smear microscopy (thick/thin), rapid diagnostic tests (RDTs) for parasite antigen. World Health Organization+1
+•	For species & severity identification (important for treatment). Mayo Clinic
+4. Treatment & Management
+•	Uncomplicated malaria: prompt administration of effective antimalarials — e.g., artemisinin based combination therapies (ACTs) for P. falciparum. World Health Organization+1
+•	Severe malaria: urgent management (hospitalisation) for complications, organ support, possible intravenous antimalarials. CDC
+•	Supportive care: managing fever, anaemia, monitoring complications.
+5. Prevention
+•	Prevent mosquito bites: insecticide treated nets, repellents especially dusk to dawn, protective clothing. Mayo Clinic+1
+•	Chemoprophylaxis for travellers to endemic areas (depending on species & resistance patterns). Ada
+•	Prompt diagnosis and treatment to reduce reservoir of infection in endemic settings. World Health Organization
+•	Note: vaccine efforts are under way but not widely used yet. Ada
+9.Hepatitis B
+1. Classification & Causes
+•	Classification: Viral infectious disease of the liver caused by the Hepatitis B virus (HBV). Can be acute or chronic. Encyclopedia Britannica+1
+•	Causes / risk factors: Transmission via infected blood, bodily fluids (semen/vaginal fluids), needle sharing, mother to child (vertical), unprotected sex, occupational exposures. MedlinePlus+1
+•	Chronic infection risk: Higher when infection occurs at a younger age (especially perinatal). Encyclopedia Britannica
+2. Symptoms & Signs
+•	Many individuals (especially chronic cases) may be asymptomatic for years. MedlinePlus
+•	Acute phase: Possibly nonspecific symptoms such as fatigue, loss of appetite, nausea, joint pain, dark urine, pale stools, jaundice (yellowing of skin/eyes). Hopkins Medicine+1
+•	Chronic phase (with liver damage): Signs of cirrhosis or liver failure (ascites, encephalopathy, variceal bleeding) or eventually hepatocellular carcinoma (liver cancer). Encyclopedia Britannica+1
+3. Diagnosis
+•	Blood tests: detection of HBV surface antigen (HBsAg), core antigen/antibodies (anti HBc), e antigen (HBeAg), viral load, liver enzyme tests. Encyclopedia Britannica+1
+•	Imaging or liver stiffness measurement or biopsy may be used to assess liver damage (fibrosis, cirrhosis) in chronic infection. NIDDK
+•	Screening recommended especially for high risk groups and pregnant women. CDC
+4. Treatment & Management
+•	Acute HBV: Often supportive (rest, fluids) because many clear infection spontaneously. World Health Organization
+•	Chronic HBV: Antiviral therapies (e.g., tenofovir, entecavir) to suppress viral replication, reduce risk of cirrhosis/liver cancer. World Health Organization+1
+•	Monitoring: Regular follow up of liver function, viral load, surveillance for hepatocellular carcinoma in high‐risk patients. Hopkins Medicine
+•	Avoiding liver toxic substances (e.g., alcohol) and managing comorbidities.
+5. Prevention
+•	Vaccination: One of the most effective prevention tools; given to infants (birth dose), children, and unvaccinated adults at risk. World Health Organization+1
+•	Safe practices: Use of condoms during sex, safe needle/ syringe use, screening of blood/organ donors, safe medical/tattooing practices. Cleveland Clinic
+•	For mother to child: screening pregnant women, administering vaccine + immunoglobulin to newborn if mother HBV positive. World Health Organization
+10.Chronic Obstructive Pulmonary Disease (COPD)
+1. Classification & Causes
+•	Classification: Non communicable chronic respiratory disease; includes conditions like chronic bronchitis and emphysema (airflow limitation, lung tissue damage). World Health Organization+2Cleveland Clinic+2
+•	Causes / risk factors:
+o	Tobacco smoking (major risk factor in high income countries) World Health Organization+1
+o	Exposure to air pollution (indoor & outdoor), biomass fuel use, occupational dust/fumes. World Health Organization+1
+o	Genetic predisposition (e.g., alpha 1 antitrypsin deficiency) in some cases. World Health Organization
+2. Symptoms & Signs
+•	Common symptoms: shortness of breath (especially with activity), chronic cough (often with sputum/mucus), wheezing, chest tightness. American Lung Association+1
+•	Signs/complications: Reduced lung function (on spirometry), frequent respiratory infections, fatigue/weakness, possible weight loss or muscle wasting in advanced disease. NHLBI, NIH
+3. Diagnosis
+•	History (symptoms, risk factors like smoking, exposure) and physical exam (listening to lung sounds). Mayo Clinic
+•	Pulmonary function tests — spirometry to measure airflow limitation (e.g., FEV1/FVC ratio) are key. Mayo Clinic+1
+•	Imaging (chest X ray / CT) and other assessments may be used to look for complications or exclude other diseases.
+4. Treatment & Management
+•	No cure (for most cases) but treatment aims to slow progression, improve symptoms, reduce exacerbations. World Health Organization
+•	Smoking cessation is the most essential step. Mayo Clinic
+•	Medications: bronchodilators (short acting / long acting), inhaled corticosteroids, combination inhalers. Mayo Clinic
+•	Other therapies: Pulmonary rehabilitation (exercise training, education), oxygen therapy (if low oxygen levels), surgery (in selected severe cases) such as lung volume reduction. Mayo Clinic
+•	Management of exacerbations (e.g., infections) and comorbidities (heart disease, etc.).
+5. Prevention
+•	Avoidance of risk factors: particularly never smoking or quitting, reducing exposure to indoor/outdoor air pollution. World Health Organization+1
+•	Regular vaccination against respiratory infections (influenza, pneumococcal) to reduce flare ups. Mayo Clinic
+•	Early detection (in smokers or high risk individuals) and prompt management of lung problems.
+11.Alzheimer’s Disease
+1. Classification & Causes
+•	Classification: Neurodegenerative, non communicable disease; the most common cause of dementia.
+•	Causes & risk factors: Age is the strongest risk factor; genetic factors (e.g., APOE ε4) increase risk; other contributors may include vascular risk factors (hypertension, diabetes), lifestyle factors (low physical activity, poor diet), head trauma. (General knowledge)
+2. Symptoms & Signs
+•	Warning signs: Memory loss disrupting daily life, difficulties in planning or solving problems, challenges completing familiar tasks, confusion with time or place, trouble understanding visual images/spatial relations, new problems with words in speaking or writing, misplacing things and unable to retrace steps, poor judgment, withdrawal from work or social activities, changes in mood/personality. CDC
+3. Diagnosis
+•	Clinical assessment: Cognitive testing (memory, orientation, language, executive function) and history of decline.
+•	Imaging and biomarkers: MRI/CT to exclude other causes; research/advanced tests such as amyloid PET or blood tests for tau/amyloid (in some countries) are increasingly used.
+4. Treatment & Management
+•	There is currently no cure that halts disease progression entirely. Ada+1
+•	Medications: Cholinesterase inhibitors (for mild moderate stage) and memantine (for moderate severe) may help symptoms. Ada
+•	Non pharmacological management: Cognitive stimulation, physical activity, social engagement, managing vascular risk factors, caregiver support.
+5. Prevention
+•	While definite prevention isn’t fully established, evidence suggests that lifestyle/vascular risk factor management may reduce risk: regular physical activity, healthy diet, social/cognitive engagement, good cardiovascular health (control of hypertension, diabetes, cholesterol).
+•	Early detection and management of risk factors are important.
+________________________________________
+12. Breast Cancer
+1. Classification & Causes
+•	Classification: Malignant neoplasm (cancer) of the breast tissue (ductal or lobular origin, etc.) — non communicable.
+•	Causes/risk factors: Female gender (though men can have it too), increasing age, family history (first degree relatives), BRCA1/2 gene mutations, personal history of breast cancer/benign breast disease, hormonal factors (early menarche, late menopause, hormone replacement therapy), obesity, alcohol use.
+2. Symptoms & Signs
+•	Lump in the breast or underarm, change in size/shape of breast, skin changes (dimpling, redness, peeling), nipple discharge (other than milk), nipple retraction, persistent breast pain.
+3. Diagnosis
+•	Clinical breast exam (by patient or doctor), imaging (mammography, ultrasound, MRI in some cases), biopsy of suspicious lesions (core needle or surgical).
+•	Staging involves checking lymph node involvement (sentinel node biopsy) and metastasis (imaging).
+
+4. Treatment & Management
+•	Treatment depends on stage: Surgery (lumpectomy, mastectomy), radiation therapy, systemic therapy (chemotherapy, hormone therapy, targeted therapy such as HER2 inhibitors if applicable), and immunotherapy in some cases.
+•	Monitoring, follow up, managing side effects, rehabilitation (physical therapy for lymphedema), psychosocial support.
+5. Prevention
+•	Lifestyle: maintain healthy weight, regular physical activity, limit alcohol intake, breastfeeding if possible, avoid unnecessary hormone replacement therapy.
+•	Screening: Regular mammography (as per guidelines) for early detection improves prognosis.
+•	Genetic counselling/testing for high risk individuals (family history, BRCA mutations) to consider preventative strategies (enhanced surveillance, prophylactic surgery).
+13. Asthma
+1. Classification & Causes
+•	Chronic inflammatory airway disease causing reversible airway narrowing.
+•	Causes: Genetic predisposition, environmental triggers (pollen, dust, cold air, exercise), allergens, pollution, respiratory infections.
+2. Symptoms & Signs
+•	Wheezing, breathlessness, chest tightness, coughing (especially at night or early morning).
+•	Symptoms vary in intensity and may be intermittent.
+3. Diagnosis
+•	Clinical history + lung function tests (e.g., spirometry showing reversible airway obstruction).
+•	Methacholine challenge test if spirometry is normal but suspicion is high.
+4. Treatment & Management
+•	Relievers: Short-acting bronchodilators (e.g., salbutamol).
+•	Controllers: Inhaled corticosteroids (ICS), long-acting bronchodilators.
+•	Avoid known triggers.
+•	Action plan for exacerbations.
+5. Prevention
+•	Avoid allergens and triggers.
+•	Use preventive inhalers as prescribed.
+14.Stroke (Cerebrovascular Accident)
+1. Classification & Causes
+•	Sudden loss of brain function due to interrupted blood supply.
+•	Types:
+o	Ischemic (most common) – due to blood clot.
+o	Hemorrhagic – due to bleeding in the brain.
+•	Risk factors: Hypertension, smoking, diabetes, atrial fibrillation.
+2. Symptoms & Signs
+•	Sudden numbness or weakness (usually one side), confusion, slurred speech, vision changes, loss of balance, severe headache.
+3. Diagnosis
+•	CT/MRI brain to differentiate type (ischemic vs hemorrhagic).
+•	Blood tests, ECG, carotid Doppler, echocardiography.
+4. Treatment & Management
+•	Ischemic: Clot-busting drugs (thrombolytics) within 3–4.5 hrs, antiplatelets, anticoagulants.
+•	Hemorrhagic: Blood pressure control, possible neurosurgical intervention.
+•	Rehabilitation: Physical, speech, occupational therapy.
+5. Prevention
+•	Control risk factors: BP, blood sugar, cholesterol.
+•	Lifestyle: Exercise, healthy diet, stop smoking.
+•	Anticoagulants for patients with atrial fibrillation.
+________________________________________
+15. Tuberculosis (TB)
+1. Classification & Causes
+•	Infectious disease caused by Mycobacterium tuberculosis.
+•	Spread via airborne droplets.
+2. Symptoms & Signs
+•	Chronic cough, weight loss, night sweats, fever, hemoptysis (coughing blood).
+•	Can affect lungs (pulmonary TB) or other organs (extrapulmonary TB).
+3. Diagnosis
+•	Sputum smear microscopy, GeneXpert, chest X-ray, TB skin test (Mantoux), Interferon Gamma Release Assays (IGRAs).
+4. Treatment & Management
+•	Standard regimen: 6-month course (2 months intensive + 4 months continuation) with multiple antibiotics (e.g., isoniazid, rifampicin).
+•	Drug-resistant TB requires longer, more complex regimens.
+5. Prevention
+•	BCG vaccination at birth (varies by country).
+•	Early detection and treatment of active cases.
+•	Isolation of infectious cases until non-contagious.
+________________________________________
+16. Diabetes Mellitus (Type 2)
+1. Classification & Causes
+•	Chronic metabolic disorder characterized by insulin resistance and high blood glucose.
+•	Risk factors: Obesity, inactivity, genetics, poor diet.
+2. Symptoms & Signs
+•	Polyuria (frequent urination), polydipsia (excess thirst), fatigue, blurred vision, slow wound healing.
+•	Long-term: Retinopathy, nephropathy, neuropathy, cardiovascular disease.
+3. Diagnosis
+•	Fasting blood glucose ≥126 mg/dL,
+•	HbA1c ≥6.5%,
+•	Oral glucose tolerance test (OGTT).
+4. Treatment & Management
+•	Lifestyle modification: diet, exercise, weight loss.
+•	Oral medications (e.g., metformin).
+•	Insulin if needed.
+•	Monitor and manage complications.
+5. Prevention
+•	Healthy lifestyle: regular physical activity, balanced diet, maintaining healthy weight.
+•	Regular screening for at-risk individuals.
+________________________________________
+17. HIV/AIDS
+1. Classification & Causes
+•	Infectious disease caused by Human Immunodeficiency Virus (HIV).
+•	Transmitted via blood, sexual fluids, and from mother to child.
+2. Symptoms & Signs
+•	Early: Fever, sore throat, rash (acute HIV syndrome).
+•	Chronic: Weight loss, fatigue, lymphadenopathy.
+•	AIDS: Opportunistic infections (e.g., TB, PCP), cancers (Kaposi's sarcoma).
+3. Diagnosis
+•	HIV antibody/antigen tests, viral load, CD4 count.
+4. Treatment & Management
+•	Antiretroviral therapy (ART) – lifelong.
+•	Treatment of opportunistic infections.
+•	Monitoring of viral load and CD4.
+5. Prevention
+•	Safe sex practices.
+•	Needle exchange programs.
+•	HIV screening and early ART.
+•	Pre-exposure prophylaxis (PrEP) for high-risk groups.
+________________________________________
+18. Rheumatoid Arthritis (RA)
+1. Classification & Causes
+•	Autoimmune inflammatory disorder affecting joints.
+•	Unknown exact cause — involves genetic + environmental triggers.
+2. Symptoms & Signs
+•	Joint pain, stiffness (especially morning), swelling, fatigue, weight loss.
+•	Symmetrical joint involvement (e.g., wrists, fingers).
+3. Diagnosis
+•	Blood tests: Rheumatoid factor, anti-CCP, ESR, CRP.
+•	X-rays, ultrasound, MRI for joint damage.
+4. Treatment & Management
+•	DMARDs (e.g., methotrexate), biologics (e.g., TNF inhibitors), NSAIDs, corticosteroids.
+•	Physical therapy.
+•	Early aggressive treatment prevents joint damage.
+5. Prevention
+•	No known prevention.
+•	Early detection and treatment to reduce disability.
+•	Smoking cessation reduces risk and progression.
+________________________________________
+19.Dengue Fever
+1. Classification & Causes
+•	Viral illness caused by Dengue virus (DENV 1–4), spread by Aedes mosquitoes.
+2. Symptoms & Signs
+•	Sudden high fever, severe headache, retro-orbital pain, joint/muscle pain (“breakbone fever”), skin rash.
+•	Severe dengue: bleeding, low platelets, shock.
+3. Diagnosis
+•	NS1 antigen test, dengue IgM/IgG, PCR.
+•	CBC (look for low platelets, high hematocrit).
+4. Treatment & Management
+•	No specific antiviral treatment.
+•	Supportive care: fluids, fever control (avoid NSAIDs like aspirin).
+•	Hospitalisation for severe dengue/shock.
+5. Prevention
+•	Mosquito control (nets, repellents, remove standing water).
+•	Dengue vaccine (in some countries, for certain age groups).
+________________________________________20. Chronic Kidney Disease (CKD)
+1. Classification & Causes
+•	Progressive loss of kidney function over time.
+•	Causes: Diabetes, hypertension, glomerulonephritis, polycystic kidney disease.
+2. Symptoms & Signs
+•	Early: fatigue, swelling in legs, changes in urination.
+•	Late: anemia, bone disease, uremia (nausea, confusion).
+3. Diagnosis
+•	Blood tests: eGFR (glomerular filtration rate), creatinine.
+•	Urine test: proteinuria (albumin/creatinine ratio).
+•	Ultrasound for kidney size/structure.
+4. Treatment & Management
+•	Manage underlying causes (e.g., BP, blood sugar).
+•	Dietary changes (low sodium, low protein).
+•	Medications (e.g., ACE inhibitors).
+•	Dialysis or transplant in end-stage renal disease.
+5. Prevention
+•	Control diabetes and hypertension.
+•	Avoid nephrotoxic drugs (NSAIDs, some antibiotics).
+•	Regular screening in high-risk patients.
+________________________________________
+21. Hypertension (High Blood Pressure)
+1. Classification & Causes
+•	Chronic elevation of blood pressure ≥140/90 mmHg (or ≥130/80 by newer guidelines).
+•	Causes: Primary (essential) most common; Secondary (e.g., kidney disease, endocrine disorders).
+2. Symptoms & Signs
+•	Often asymptomatic (“silent killer”).
+•	May cause headaches, nosebleeds in severe cases.
+•	Long-term: risk of heart attack, stroke, kidney disease.
+3. Diagnosis
+•	Repeated BP measurements.
+•	Amb
+
+22. Appendicitis
+1. Classification & Causes
+•	Classification: Acute surgical condition; inflammation of the appendix.
+•	Cause: Blockage of the appendix (fecalith, infection, lymphoid hyperplasia) leading to infection.
+2. Symptoms & Signs
+•	Abdominal pain (starting at umbilicus, moving to right lower quadrant), fever, nausea, vomiting, loss of appetite.
+•	Rebound tenderness, guarding.
+3. Diagnosis
+•	Clinical exam + elevated white blood cell count.
+•	Imaging: Abdominal ultrasound or CT scan for confirmation.
+4. Treatment & Management
+•	Appendectomy (surgical removal).
+•	Antibiotics (pre- or post-surgery).
+•	Rarely managed conservatively if early and mild.
+5. Prevention
+•	No known prevention.
+•	Early diagnosis and treatment prevent complications like rupture or peritonitis.
+________________________________________
+23. Psoriasis
+1. Classification & Causes
+•	Classification: Chronic autoimmune skin disease.
+•	Cause: Immune system dysfunction causing rapid skin cell turnover. Triggers: stress, infections, cold, trauma, certain drugs.
+2. Symptoms & Signs
+•	Thick, red, scaly patches (plaques), often on elbows, knees, scalp.
+•	Itching, burning, cracked skin, nail pitting.
+•	May be associated with psoriatic arthritis.
+3. Diagnosis
+•	Clinical appearance.
+•	Skin biopsy if uncertain.
+4. Treatment & Management
+•	Topical corticosteroids, vitamin D analogs.
+•	Phototherapy.
+•	Systemic agents (methotrexate, biologics for severe cases).
+5. Prevention
+•	Avoid triggers (e.g., stress, injury).
+•	Maintain skin hydration.
+•	Treat infections early.
+________________________________________
+24. Epilepsy
+1. Classification & Causes
+•	Classification: Neurological disorder marked by recurrent seizures.
+•	Causes: Genetic, structural brain abnormalities, infections, trauma, tumors, stroke. Often idiopathic.
+2. Symptoms & Signs
+•	Seizures (generalized or focal), with or without convulsions.
+•	Confusion, loss of consciousness, aura (before seizure), twitching.
+3. Diagnosis
+•	EEG (electroencephalogram), brain MRI/CT.
+•	Blood tests to rule out metabolic causes.
+4. Treatment & Management
+•	Antiepileptic drugs (e.g., valproate, carbamazepine).
+•	Surgery or vagus nerve stimulation in refractory cases.
+•	Lifestyle: Avoid triggers (sleep deprivation, alcohol).
+5. Prevention
+•	Prevent head injuries, manage infections, prenatal care.
+•	Medication compliance to prevent recurrence.
+________________________________________
+25. Osteoarthritis
+1. Classification & Causes
+•	Classification: Degenerative joint disease (non-inflammatory).
+•	Causes: Aging, joint wear-and-tear, obesity, joint injuries.
+2. Symptoms & Signs
+•	Joint pain, stiffness (worse with activity), decreased mobility, bony swelling, crepitus.
+•	Common in knees, hips, hands, spine.
+3. Diagnosis
+•	Clinical exam + imaging (X-rays show joint space narrowing, osteophytes).
+•	Rule out inflammatory arthritis with blood tests (normal in OA).
+4. Treatment & Management
+•	Weight loss, physical therapy.
+•	Pain management: NSAIDs, acetaminophen.
+•	Intra-articular steroids, joint replacement surgery in advanced cases.
+5. Prevention
+•	Maintain healthy weight.
+•	Avoid joint overuse/injury.
+•	Stay active with joint-friendly exercises.
+________________________________________
+26. Cholelithiasis (Gallstones)
+1. Classification & Causes
+•	Classification: Formation of stones in the gallbladder.
+•	Causes: Imbalance in cholesterol or bile salts. Risk factors: female, fat, fertile, forty (4 Fs), rapid weight loss, pregnancy.
+2. Symptoms & Signs
+•	Often asymptomatic.
+•	Biliary colic: RUQ pain after fatty meal, radiating to back.
+•	Nausea, vomiting. Complications: cholecystitis, jaundice, pancreatitis.
+3. Diagnosis
+•	Abdominal ultrasound is first-line.
+•	LFTs, CT, MRCP if complications suspected.
+4. Treatment & Management
+•	Asymptomatic: usually no treatment.
+•	Symptomatic: laparoscopic cholecystectomy (surgical removal).
+•	Pain control, antibiotics if infection.
+5. Prevention
+•	Maintain healthy weight, avoid crash diets.
+•	Healthy low-fat diet.
+•	Regular physical activity.
+________________________________________
+27. Meningitis
+1. Classification & Causes
+•	Classification: Inflammation of the meninges (brain/spinal cord coverings).
+•	Causes:
+o	Bacterial (e.g., Neisseria meningitidis, Strep. pneumoniae) – severe.
+o	Viral – more common and milder.
+o	Fungal, parasitic in immunocompromised.
+2. Symptoms & Signs
+•	High fever, headache, neck stiffness, nausea, vomiting, photophobia.
+•	Altered mental status, seizures in severe cases.
+•	In infants: bulging fontanelle, poor feeding.
+3. Diagnosis
+•	Lumbar puncture for CSF analysis (essential).
+•	Blood cultures, CT scan before LP if needed.
+4. Treatment & Management
+•	Bacterial: Urgent IV antibiotics and corticosteroids.
+•	Viral: Supportive care.
+•	Isolation in some types (e.g., meningococcal).
+5. Prevention
+•	Vaccination (Hib, meningococcal, pneumococcal).
+•	Prophylactic antibiotics for close contacts.
+•	Prompt treatment of infections (e.g., ear/sinus infections).
+28. Pneumonia
+1. Classification & Causes
+•	Classification: Acute lower respiratory infection.
+•	Cause: Bacterial (Strep. pneumoniae), viral (influenza, RSV), fungal (rare). Hospital vs. community-acquired.
+2. Symptoms & Signs
+•	Fever, cough with sputum, shortness of breath, chest pain.
+•	Crackles on chest auscultation.
+3. Diagnosis
+•	Chest X-ray, sputum culture, blood tests, oxygen saturation.
+4. Treatment & Management
+•	Antibiotics (e.g., amoxicillin, macrolides), antivirals if viral.
+•	Supportive care: fluids, oxygen.
+•	Hospitalization if severe.
+5. Prevention
+•	Pneumococcal and flu vaccines.
+•	Smoking cessation.
+•	Good hygiene and handwashing.
+29. Gout
+1. Classification & Causes
+•	Classification: Inflammatory arthritis due to uric acid crystal deposition.
+•	Cause: Hyperuricemia from diet, alcohol, renal impairment, or genetic factors.
+2. Symptoms & Signs
+•	Sudden, intense joint pain (often big toe).
+•	Swelling, redness, warmth, and tenderness.
+•	Recurrent attacks may affect multiple joints.
+3. Diagnosis
+•	Joint fluid aspiration shows urate crystals.
+•	Serum uric acid levels (may be normal during attack).
+•	X-rays for chronic disease.
+4. Treatment & Management
+•	NSAIDs, colchicine, corticosteroids for acute attacks.
+•	Long-term: allopurinol, febuxostat to lower uric acid.
+•	Lifestyle changes: limit alcohol, red meat, sugary drinks.
+5. Prevention
+•	Avoid triggers (diet, alcohol).
+•	Maintain healthy weight.
+•	Regular use of uric acid-lowering therapy in chronic gout.
+________________________________________
+30. Polio (Poliomyelitis)
+1. Classification & Causes
+•	Classification: Viral disease affecting the nervous system.
+•	Cause: Poliovirus, spread via fecal-oral route.
+2. Symptoms & Signs
+•	Mostly asymptomatic.
+•	Mild: fever, fatigue, sore throat.
+•	Severe: paralysis, muscle weakness, respiratory failure.
+3. Diagnosis
+•	Stool or throat culture for virus isolation.
+•	PCR for poliovirus RNA.
+4. Treatment & Management
+•	No cure — supportive care.
+•	Physical therapy for muscle weakness.
+•	Ventilatory support if respiratory muscles involved.
+5. Prevention
+•	Vaccination: OPV (oral) or IPV (inactivated).
+•	Sanitation and hygiene.
+•	Global eradication efforts.
