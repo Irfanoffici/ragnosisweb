@@ -1,0 +1,3 @@
+title: "ClaraGPT"
+sdk: docker
+app_port: 8000
