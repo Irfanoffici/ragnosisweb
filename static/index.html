@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ragnosis - AI Medical Companion</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="header">
+            <div class="header-content">
+                <h1><span class="emoji">🤖</span>Ragnosis AI</h1>
+                <div class="subtitle">Your Continuous Medical Conversation Assistant</div>
+                <button id="clear-chat" class="clear-chat-btn" title="Clear conversation">
+                    🗑️ Clear Chat
+                </button>
+            </div>
+        </div>
+        
+        <div class="disclaimer">
+            ⚠️ For educational purposes only. Always consult healthcare professionals for medical advice.
+        </div>
+
+        <div class="chat-messages" id="chat-messages">
+            <!-- Messages will be loaded here -->
+        </div>
+
+        <div class="typing-indicator" id="typing-indicator">
+            <div class="typing-content">
+                <div class="typing-avatar">🤖</div>
+                <div class="typing-text">
+                    Ragnosis is thinking<span class="typing-dots"><span>.</span><span>.</span><span>.</span></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="input-container">
+            <div class="input-wrapper">
+                <textarea 
+                    id="message-input" 
+                    placeholder="Type your message here... (I remember our previous conversation!)" 
+                    rows="1"
+                    aria-label="Chat with Ragnosis AI"
+                ></textarea>
+                <button id="send-button" type="button" aria-label="Send message">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="input-hint">
+                💡 I maintain conversation context. Ask follow-up questions naturally!
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
