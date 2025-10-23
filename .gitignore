@@ -1,0 +1,28 @@
+# Environment files
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Data files (if large)
+data/large_dataset/
+
+.env
+__pycache__/
+*.pyc
+chroma_db/
