@@ -9,3 +9,4 @@ wikipedia-api
 requests
 pydantic
 aiofiles
+google-generativeai
