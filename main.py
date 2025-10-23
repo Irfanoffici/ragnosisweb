@@ -1,33 +1,30 @@
-# main.py
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
-import chromadb
-from sentence_transformers import SentenceTransformer
-import groq
 import os
 import uvicorn
 import time
 import requests
-import wikipediaapi
-from typing import List, Optional
-from datetime import datetime
-from dotenv import load_dotenv
-from contextlib import asynccontextmanager
 import json
 import re
+import sqlite3
+from datetime import datetime
+from typing import List, Optional, Dict, Any
+from dotenv import load_dotenv
+from contextlib import asynccontextmanager
+import hashlib
 
 # Load environment variables
 load_dotenv()
 
-# Security - Define this FIRST
+# Security
 security = HTTPBearer()
 API_TOKENS = set()
 
-# Enhanced Data models
+# Data models
 class QuestionRequest(BaseModel):
     question: str
     session_id: Optional[str] = None
@@ -46,73 +43,85 @@ class HealthResponse(BaseModel):
     timestamp: str
     version: str
     groq_status: str
+    gemini_status: str
     wikipedia_status: str
+    local_db_status: str
 
-class SystemStatus(BaseModel):
-    groq_connected: bool
-    wikipedia_connected: bool
-    startup_time: str
-    total_queries_processed: int
-
-# Global variables
-embedding_model = None
-collection = None
+# Global variables - initialize as None
 groq_client = None
+gemini_client = None
 wiki_wiki = None
 system_startup_time = datetime.now()
 query_counter = 0
-
-# Session management
+local_medical_data = {}
 user_sessions = {}
 
 print("🤖 Starting Ragnosis AI - Advanced Medical Assistant...")
 
 def initialize_secure_tokens():
-    """Initialize or load API tokens"""
+    """Initialize API tokens"""
     global API_TOKENS
     default_token = os.getenv("CLARA_API_TOKEN", "ragnosis-ai-token-2024")
     API_TOKENS.add(default_token)
     print(f"🔑 API Tokens initialized: {len(API_TOKENS)} tokens loaded")
 
-def verify_token(credentials: HTTPAuthorizationCredentials = Depends(security)):
-    """Verify API token"""
-    token = credentials.credentials
-    if token not in API_TOKENS:
-        raise HTTPException(
-            status_code=401,
-            detail="Invalid API token. Please check your authorization header."
-        )
-    return token
-
 def initialize_groq_client():
-    """Safely initialize Groq client with error handling"""
+    """Initialize Groq client with dynamic import"""
     groq_api_key = os.getenv("GROQ_API_KEY")
-    
     if not groq_api_key:
-        print("❌ GROQ_API_KEY not found in environment variables!")
+        print("❌ GROQ_API_KEY not found")
         return None
     
-    if groq_api_key.startswith("gsk_") and len(groq_api_key) > 30:
-        try:
-            client = groq.Groq(api_key=groq_api_key)
+    try:
+        import groq
+        client = groq.Groq(api_key=groq_api_key)
+        # Test connection
+        test_response = client.chat.completions.create(
+            messages=[{"role": "user", "content": "Say 'ready'"}],
+            model="llama-3.1-8b-instant",
+            max_tokens=5
+        )
+        print("✅ Groq client initialized successfully!")
+        return client
+    except Exception as e:
+        print(f"❌ Failed to initialize Groq client: {e}")
+        return None
+
+def initialize_gemini_client():
+    """Initialize Gemini client with dynamic import and proper model"""
+    gemini_api_key = os.getenv("GEMINI_API_KEY")
+    if not gemini_api_key:
+        print("❌ GEMINI_API_KEY not found")
+        return None
+    
+    try:
+        import google.generativeai as genai
+        genai.configure(api_key=gemini_api_key)
+        
+        # List available models and use the first available one
+        models = genai.list_models()
+        available_models = [model.name for model in models if 'generateContent' in model.supported_generation_methods]
+        
+        if available_models:
+            # Use the first available model
+            model_name = available_models[0]
+            model = genai.GenerativeModel(model_name)
             # Test connection
-            test_response = client.chat.completions.create(
-                messages=[{"role": "user", "content": "Say 'Ragnosis AI is ready to help!'"}],
-                model="llama-3.1-8b-instant",
-                max_tokens=15
-            )
-            print("✅ Groq client initialized successfully!")
-            return client
-        except Exception as e:
-            print(f"❌ Failed to initialize Groq client: {e}")
+            response = model.generate_content("Hello")
+            print(f"✅ Gemini client initialized successfully with model: {model_name}")
+            return model
+        else:
+            print("❌ No suitable Gemini models found")
             return None
-    else:
-        print("❌ Invalid Groq API key format")
+            
+    except Exception as e:
+        print(f"❌ Failed to initialize Gemini client: {e}")
         return None
 
 def initialize_wikipedia():
-    """Initialize Wikipedia API"""
+    """Initialize Wikipedia API with dynamic import"""
     try:
+        import wikipediaapi
         wiki = wikipediaapi.Wikipedia(
             language='en',
             extract_format=wikipediaapi.ExtractFormat.WIKI,
@@ -124,213 +133,282 @@ def initialize_wikipedia():
         print(f"❌ Failed to initialize Wikipedia: {e}")
         return None
 
-def search_wikipedia_medical(query: str, max_results: int = 3):
-    """Search Wikipedia for medical information"""
-    if not wiki_wiki:
-        return []
-    
+def initialize_local_medical_database():
+    """Initialize and load local medical database"""
+    medical_data = {}
     try:
-        search_results = []
+        # Try to load from medical_data.txt
+        with open('data/medical_data.txt', 'r', encoding='utf-8') as f:
+            content = f.read()
         
-        # More specific medical search terms
-        medical_terms = [
-            query,
-            f"{query} (medicine)",
-            f"{query} disease",
-            f"{query} symptoms",
-            f"{query} treatment",
-            f"{query} diagnosis",
-            f"{query} causes"
-        ]
+        # Parse medical data
+        sections = content.split('\n\n')
+        for section in sections:
+            lines = section.split('\n')
+            if len(lines) >= 2:
+                key = lines[0].lower().replace(':', '').strip()
+                value = '\n'.join(lines[1:]).strip()
+                medical_data[key] = value
         
-        for term in medical_terms:
-            if len(search_results) >= max_results:
-                break
-                
-            page = wiki_wiki.page(term)
-            if page.exists() and len(page.summary) > 100:
-                # Extract more relevant content
-                preview = page.summary[:300] + "..." if len(page.summary) > 300 else page.summary
-                search_results.append({
-                    "title": page.title,
-                    "url": page.fullurl,
-                    "preview": preview,
-                    "full_summary": page.summary[:800]  # More context for AI
-                })
-        
-        return search_results[:max_results]
-        
+        print(f"✅ Local medical database loaded: {len(medical_data)} conditions")
+        return medical_data
     except Exception as e:
-        print(f"❌ Wikipedia search error: {e}")
-        return []
+        print(f"❌ Failed to load local medical database: {e}")
+        # Create default medical data
+        default_data = {
+            'headache': 'Common causes: tension, dehydration, sinus issues\nTreatment: rest, hydration, pain relievers\nWhen to seek help: severe pain, vision changes',
+            'fever': 'Definition: body temperature above 100.4°F\nManagement: rest, hydration, fever-reducers\nEmergency: fever over 103°F, lasting more than 3 days',
+            'cough': 'Types: dry cough, productive cough\nRemedies: honey, humidifier, hydration\nSee doctor if: lasts over 3 weeks',
+            'cold': 'Symptoms: runny nose, sore throat, cough\nTreatment: rest, fluids, OTC medications\nPrevention: hand washing',
+            'allergies': 'Triggers: pollen, dust, pet dander\nSymptoms: sneezing, itchy eyes, runny nose\nManagement: antihistamines, allergen avoidance',
+            'pain': 'Types: acute, chronic\nManagement: rest, medication, physical therapy\nEmergency: severe pain, chest pain, head injury',
+            'nausea': 'Causes: stomach virus, food poisoning, migraine\nRemedies: ginger, small meals, hydration\nSee doctor if: persistent, with fever, dehydration'
+        }
+        print("✅ Using default medical database")
+        return default_data
 
-def generate_ai_response(messages: List[dict], model: str = "llama-3.1-8b-instant", temperature: float = 0.7, max_tokens: int = 1000):
-    """Generate response using Groq with enhanced AI personality"""
+def initialize_user_database():
+    """Initialize SQLite database for user data and logs"""
+    try:
+        conn = sqlite3.connect('ragnosis_users.db', check_same_thread=False)
+        cursor = conn.cursor()
+        
+        # Create user sessions table
+        cursor.execute('''
+            CREATE TABLE IF NOT EXISTS user_sessions (
+                session_id TEXT PRIMARY KEY,
+                created_at TIMESTAMP,
+                last_activity TIMESTAMP,
+                message_count INTEGER DEFAULT 0,
+                user_data TEXT DEFAULT '{}'
+            )
+        ''')
+        
+        # Create conversation logs table
+        cursor.execute('''
+            CREATE TABLE IF NOT EXISTS conversation_logs (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                session_id TEXT,
+                timestamp TIMESTAMP,
+                user_message TEXT,
+                bot_response TEXT,
+                model_used TEXT,
+                response_time REAL,
+                FOREIGN KEY (session_id) REFERENCES user_sessions (session_id)
+            )
+        ''')
+        
+        conn.commit()
+        conn.close()
+        print("✅ User database initialized successfully!")
+        return True
+    except Exception as e:
+        print(f"❌ Failed to initialize user database: {e}")
+        return False
+
+def search_local_medical_data(query: str, medical_data: dict):
+    """Search local medical database for relevant information"""
+    query_lower = query.lower()
+    relevant_data = []
+    
+    # Simple keyword matching
+    for condition, info in medical_data.items():
+        if any(keyword in query_lower for keyword in condition.split()):
+            relevant_data.append({
+                'condition': condition,
+                'information': info,
+                'relevance_score': sum(1 for keyword in condition.split() if keyword in query_lower)
+            })
+    
+    # Sort by relevance and return top 3
+    relevant_data.sort(key=lambda x: x['relevance_score'], reverse=True)
+    return relevant_data[:3]
+
+def generate_ai_response_with_groq(messages: List[dict]):
+    """Generate response using Groq"""
+    global groq_client
+    if not groq_client:
+        raise Exception("Groq client not available")
+    
     try:
         chat_completion = groq_client.chat.completions.create(
             messages=messages,
-            model=model,
-            temperature=temperature,
-            max_tokens=max_tokens
+            model="llama-3.1-8b-instant",
+            temperature=0.7,
+            max_tokens=1000
         )
-        
         return chat_completion.choices[0].message.content
-        
     except Exception as e:
         print(f"❌ Groq API error: {e}")
-        return "😅 Oops! I'm having a little technical difficulty. Please try again in a moment!"
+        raise Exception("Groq service unavailable")
 
-def generate_conversational_response(question: str, wikipedia_results: List[dict] = None, conversation_history: List[dict] = None, session_id: str = None):
-    """Generate intelligent, conversational medical response with context"""
+def generate_ai_response_with_gemini(prompt: str):
+    """Generate response using Gemini"""
+    global gemini_client
+    if not gemini_client:
+        raise Exception("Gemini client not available")
     
-    # Build context from Wikipedia results
-    wiki_context = ""
-    if wikipedia_results:
-        wiki_context = "\n\n📚 RELEVANT MEDICAL INFORMATION FROM WIKIPEDIA:\n"
-        for i, result in enumerate(wikipedia_results, 1):
-            wiki_context += f"{i}. {result['title']}: {result['preview']}\n"
+    try:
+        response = gemini_client.generate_content(prompt)
+        return response.text
+    except Exception as e:
+        print(f"❌ Gemini API error: {e}")
+        raise Exception("Gemini service unavailable")
+
+def generate_response_with_local_data(query: str, conversation_history: List[dict], medical_data: dict, session_id: str):
+    """Generate response using local medical database"""
     
-    # Build conversation history context
-    history_context = ""
-    if conversation_history and len(conversation_history) > 0:
-        history_context = "\n📝 OUR RECENT CONVERSATION (for context):\n"
-        for msg in conversation_history[-6:]:  # Last 6 exchanges for better context
-            if msg.get('role') == 'user':
-                history_context += f"👤 User: {msg.get('content', '')}\n"
-            else:
-                history_context += f"🤖 Assistant: {msg.get('content', '')}\n"
+    # Search local medical database
+    local_results = search_local_medical_data(query, medical_data)
     
-    # Enhanced system prompt for better medical responses
-    system_prompt = f"""You are Ragnosis AI, a friendly, knowledgeable, and compassionate medical AI assistant. 
-
-PERSONALITY:
-- Warm and approachable like a trusted healthcare friend
-- Professional but conversational and easy to understand
-- Empathetic and supportive
-- Clear and specific in explanations
-- Honest about limitations
-
-CONTEXT:
-{wiki_context}
-{history_context}
-
-USER'S CURRENT QUESTION: {question}
-
-RESPONSE GUIDELINES:
-1. BE SPECIFIC & ACCURATE: Provide detailed, medically accurate information
-2. BE CONVERSATIONAL: Use natural language, appropriate emojis, and friendly tone
-3. MAINTAIN CONTEXT: Reference previous conversation when relevant
-4. BE PRACTICAL: Offer actionable advice when appropriate
-5. USE EVIDENCE: Reference Wikipedia information when relevant
-6. SAFETY FIRST: Always include a clear medical disclaimer
-7. BE ENGAGING: Ask relevant follow-up questions to continue the conversation
-
-MEDICAL DISCLAIMER (include at end):
-"💡 Remember: I'm an AI assistant for informational purposes. Always consult healthcare professionals for medical advice, diagnoses, or treatment."
-
-IMPORTANT: Your response should be comprehensive yet easy to understand. Break down complex medical concepts."""
-
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": question}
+    # Build context from local data
+    local_context = ""
+    if local_results:
+        local_context = "\n📚 LOCAL MEDICAL KNOWLEDGE BASE:\n"
+        for result in local_results:
+            local_context += f"• {result['condition'].title()}: {result['information'][:200]}...\n"
+    
+    # Enhanced local response generation
+    if local_results:
+        best_match = local_results[0]
+        response = f"**Based on my medical knowledge base for {best_match['condition'].title()}:**\n\n"
+        response += f"{best_match['information']}\n\n"
+        
+        # Add personalized follow-up
+        if 'pain' in query.lower() or 'hurt' in query.lower():
+            response += "To help you better, I'd like to know:\n• How severe is the pain (scale 1-10)?\n• How long have you been experiencing this?"
+        else:
+            response += "To provide more specific advice, could you tell me:\n• How long have you had these symptoms?\n• Any other symptoms you're experiencing?"
+        
+    else:
+        response = f"**Regarding your question about '{query}':**\n\n"
+        response += "I've checked my medical knowledge base, but I don't have specific information about this condition. "
+        response += "For accurate medical advice, I recommend consulting with a healthcare professional.\n\n"
+        response += "In the meantime, I'd be happy to help with general health information or answer other questions you might have."
+    
+    response += "\n\n💡 Remember: I'm an AI assistant for informational purposes. Always consult healthcare professionals for medical advice, diagnoses, or treatment."
+    
+    follow_up_questions = [
+        "How long have you been experiencing this?",
+        "Have you consulted a doctor about this?",
+        "Are you taking any medications currently?",
+        "Any other symptoms you're noticing?"
     ]
     
-    return generate_ai_response(messages, temperature=0.7, max_tokens=1200)
+    return response, follow_up_questions
 
-def extract_follow_up_questions(response: str, current_question: str):
-    """Extract relevant follow-up questions based on context"""
-    # Pre-defined follow-up questions for common medical topics
-    medical_follow_ups = {
-        'symptoms': [
-            "How long have you been experiencing these symptoms?",
-            "Have you noticed any triggers that make it better or worse?"
-        ],
-        'diagnosis': [
-            "Have you consulted a doctor about this?",
-            "What tests or examinations have you had so far?"
-        ],
-        'treatment': [
-            "What treatments have you tried already?",
-            "Are you currently taking any medications?"
-        ],
-        'general': [
-            "Would you like me to explain any part in more detail?",
-            "Is there anything else you'd like to know about this?"
-        ]
-    }
-    
-    # Analyze the current question to choose relevant follow-ups
-    question_lower = current_question.lower()
-    
-    if any(word in question_lower for word in ['symptom', 'feel', 'pain', 'hurt']):
-        return medical_follow_ups['symptoms']
-    elif any(word in question_lower for word in ['diagnos', 'test', 'result']):
-        return medical_follow_ups['diagnosis']
-    elif any(word in question_lower for word in ['treat', 'medic', 'therapy']):
-        return medical_follow_ups['treatment']
-    else:
-        return medical_follow_ups['general']
-
-def get_wikipedia_source_links(wikipedia_results: List[dict]):
-    """Format Wikipedia results as source links"""
-    sources = []
-    for result in wikipedia_results:
-        sources.append(f"📖 {result['title']} - {result['url']}")
-    return sources
+def log_conversation(session_id: str, user_message: str, bot_response: str, model_used: str, response_time: float):
+    """Log conversation to database"""
+    try:
+        conn = sqlite3.connect('ragnosis_users.db', check_same_thread=False)
+        cursor = conn.cursor()
+        
+        cursor.execute('''
+            INSERT INTO conversation_logs 
+            (session_id, timestamp, user_message, bot_response, model_used, response_time)
+            VALUES (?, ?, ?, ?, ?, ?)
+        ''', (session_id, datetime.now(), user_message, bot_response, model_used, response_time))
+        
+        # Update session activity
+        cursor.execute('''
+            UPDATE user_sessions 
+            SET last_activity = ?, message_count = message_count + 1 
+            WHERE session_id = ?
+        ''', (datetime.now(), session_id))
+        
+        conn.commit()
+        conn.close()
+        return True
+    except Exception as e:
+        print(f"❌ Failed to log conversation: {e}")
+        return False
 
 def get_or_create_session(session_id: str = None):
-    """Get existing session or create new one"""
-    if not session_id or session_id not in user_sessions:
-        new_session_id = f"session_{int(time.time())}_{len(user_sessions)}"
-        user_sessions[new_session_id] = {
-            'created_at': datetime.now(),
-            'conversation_history': [],
-            'message_count': 0
-        }
-        return new_session_id, user_sessions[new_session_id]
-    
-    return session_id, user_sessions[session_id]
+    """Get existing session or create new one in database"""
+    try:
+        conn = sqlite3.connect('ragnosis_users.db', check_same_thread=False)
+        cursor = conn.cursor()
+        
+        if not session_id:
+            # Create new session
+            new_session_id = f"session_{int(time.time())}_{hashlib.md5(str(time.time()).encode()).hexdigest()[:8]}"
+            cursor.execute('''
+                INSERT INTO user_sessions (session_id, created_at, last_activity, message_count, user_data)
+                VALUES (?, ?, ?, ?, ?)
+            ''', (new_session_id, datetime.now(), datetime.now(), 0, '{}'))
+            conn.commit()
+            conn.close()
+            return new_session_id
+        
+        # Check if session exists
+        cursor.execute('SELECT session_id FROM user_sessions WHERE session_id = ?', (session_id,))
+        if cursor.fetchone():
+            conn.close()
+            return session_id
+        else:
+            # Create session with provided ID
+            cursor.execute('''
+                INSERT INTO user_sessions (session_id, created_at, last_activity, message_count, user_data)
+                VALUES (?, ?, ?, ?, ?)
+            ''', (session_id, datetime.now(), datetime.now(), 0, '{}'))
+            conn.commit()
+            conn.close()
+            return session_id
+            
+    except Exception as e:
+        print(f"❌ Session management error: {e}")
+        # Fallback to in-memory sessions
+        if not session_id or session_id not in user_sessions:
+            new_session_id = f"session_{int(time.time())}_{len(user_sessions)}"
+            user_sessions[new_session_id] = {
+                'created_at': datetime.now(),
+                'conversation_history': [],
+                'message_count': 0
+            }
+            return new_session_id
+        return session_id
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Lifespan manager for startup and shutdown events"""
-    # Startup
-    global groq_client, wiki_wiki
+    global groq_client, gemini_client, wiki_wiki, local_medical_data
     
     print("🔧 Initializing Ragnosis AI System...")
     
-    # Initialize security
     initialize_secure_tokens()
-    
-    # Initialize components
     groq_client = initialize_groq_client()
+    gemini_client = initialize_gemini_client()
     wiki_wiki = initialize_wikipedia()
+    local_medical_data = initialize_local_medical_database()
+    initialize_user_database()
     
-    print("🎉 Ragnosis AI Assistant is ready!")
-    print("💬 Enhanced with continuous conversations and Wikipedia integration!")
-    print("🌐 Web interface: http://localhost:7860")
-    print("🔧 API documentation: /api/docs")
+    # System status report
+    active_services = []
+    if groq_client: active_services.append("Groq AI")
+    if gemini_client: active_services.append("Gemini AI") 
+    if wiki_wiki: active_services.append("Wikipedia")
+    if local_medical_data: active_services.append("Local Medical DB")
     
-    yield  # App runs here
+    print(f"🎉 Ragnosis AI Ready! Active services: {', '.join(active_services)}")
+    print("💬 Multi-layer fallback system: Groq → Gemini → Wikipedia → Local DB")
+    print("📊 User data collection and logging enabled")
     
-    # Shutdown (if needed)
+    yield
+    
     print("🔧 Shutting down Ragnosis AI System...")
 
-# Initialize FastAPI with lifespan
 app = FastAPI(
     title="Ragnosis AI - Advanced Medical Assistant",
     description="Your friendly AI companion for medical information and health guidance",
-    version="4.0.0",
+    version="5.0.0",
     docs_url="/api/docs",
     redoc_url="/api/redoc",
     openapi_url="/api/openapi.json",
     lifespan=lifespan
 )
 
-# Mount static files
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
-# Add CORS middleware for frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -339,211 +417,131 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Enhanced API Routes
 @app.get("/", response_class=HTMLResponse)
 async def chat_interface():
-    """Serve the main chat interface"""
     try:
         with open("static/index.html", "r", encoding="utf-8") as f:
             return HTMLResponse(content=f.read())
     except FileNotFoundError:
-        return HTMLResponse(content="<h1>Ragnosis AI Frontend not found. Please check static files.</h1>", status_code=404)
+        return HTMLResponse(content="<h1>Ragnosis AI - Medical Assistant</h1><p>Frontend files not found. API is running.</p>")
 
 @app.get("/health", response_model=HealthResponse)
 async def health_check():
-    """System health check"""
-    groq_status = "connected" if groq_client else "disconnected"
-    wiki_status = "connected" if wiki_wiki else "disconnected"
-    
     return HealthResponse(
         status="healthy",
         timestamp=str(datetime.now()),
-        version="4.0.0",
-        groq_status=groq_status,
-        wikipedia_status=wiki_status
-    )
-
-@app.get("/api/status", response_model=SystemStatus)
-async def system_status(_: str = Depends(verify_token)):
-    """Detailed system status (protected)"""
-    return SystemStatus(
-        groq_connected=groq_client is not None,
-        wikipedia_connected=wiki_wiki is not None,
-        startup_time=str(system_startup_time),
-        total_queries_processed=query_counter
+        version="5.0.0",
+        groq_status="connected" if groq_client else "disconnected",
+        gemini_status="connected" if gemini_client else "disconnected",
+        wikipedia_status="connected" if wiki_wiki else "disconnected",
+        local_db_status="connected" if local_medical_data else "disconnected"
     )
 
 @app.post("/ask", response_model=QuestionResponse)
 async def ask_question(request: QuestionRequest):
-    """Ask Ragnosis AI a question with conversation context"""
     global query_counter
     start_time = time.time()
     query_counter += 1
     
     print(f"💬 Question received: {request.question}")
-    print(f"📝 Session ID: {request.session_id}")
-    
-    # Check system readiness
-    if not groq_client:
-        raise HTTPException(
-            status_code=503,
-            detail="Ragnosis AI is taking a quick break! Please try again in a moment. 🫠"
-        )
     
     try:
         # Get or create session
-        session_id, session_data = get_or_create_session(request.session_id)
+        session_id = get_or_create_session(request.session_id)
         
-        # Search Wikipedia for medical information
-        wikipedia_results = []
-        if any(keyword in request.question.lower() for keyword in 
-               ['disease', 'symptom', 'treatment', 'medical', 'health', 'diagnosis', 'medicine', 'pain', 'illness', 'condition']):
-            wikipedia_results = search_wikipedia_medical(request.question)
+        # Multi-layer response generation
+        answer = ""
+        model_used = ""
+        follow_up_questions = []
+        sources = []
         
-        # Prepare conversation history for context
-        conversation_history = session_data['conversation_history']
+        # Layer 1: Try Groq AI
+        if groq_client and not answer:
+            try:
+                messages = [
+                    {"role": "system", "content": "You are a medical AI assistant. Provide helpful, accurate information with a disclaimer about consulting healthcare professionals."},
+                    {"role": "user", "content": request.question}
+                ]
+                answer = generate_ai_response_with_groq(messages)
+                model_used = "groq-llama"
+                follow_up_questions = ["Can you tell me more about your symptoms?", "How long have you experienced this?"]
+            except Exception as e:
+                print(f"❌ Groq failed: {e}")
         
-        # Generate conversational AI response with context
-        answer = generate_conversational_response(
-            request.question, 
-            wikipedia_results, 
-            conversation_history,
-            session_id
-        )
+        # Layer 2: Try Gemini AI
+        if not answer and gemini_client:
+            try:
+                prompt = f"As a medical AI assistant, provide helpful information about: {request.question}. Include a disclaimer about consulting healthcare professionals."
+                answer = generate_ai_response_with_gemini(prompt)
+                model_used = "gemini-pro"
+                follow_up_questions = ["Could you describe your symptoms in more detail?", "Have you seen a doctor about this?"]
+            except Exception as e:
+                print(f"❌ Gemini failed: {e}")
         
-        # Update conversation history
-        session_data['conversation_history'].extend([
-            {"role": "user", "content": request.question},
-            {"role": "assistant", "content": answer}
-        ])
-        
-        # Limit conversation history to last 20 messages to prevent context overflow
-        if len(session_data['conversation_history']) > 20:
-            session_data['conversation_history'] = session_data['conversation_history'][-20:]
-        
-        session_data['message_count'] += 1
-        
-        # Extract follow-up questions
-        follow_up_questions = extract_follow_up_questions(answer, request.question)
-        
-        # Get Wikipedia source links
-        sources = get_wikipedia_source_links(wikipedia_results)
+        # Layer 3: Use Local Medical Database (ALWAYS WORKS)
+        if not answer:
+            model_used = "local-medical-db"
+            answer, follow_up_questions = generate_response_with_local_data(
+                request.question, 
+                request.conversation_history or [],
+                local_medical_data,
+                session_id
+            )
+            sources = ["📚 Ragnosis Local Medical Knowledge Base"]
         
         response_time = round(time.time() - start_time, 2)
         
-        print(f"✅ AI response generated in {response_time}s")
-        print(f"💾 Session {session_id} now has {session_data['message_count']} messages")
+        # Log conversation
+        log_conversation(session_id, request.question, answer, model_used, response_time)
+        
+        print(f"✅ Response generated using {model_used} in {response_time}s")
         
         return QuestionResponse(
             answer=answer,
             sources=sources,
             response_time=response_time,
-            model_used="llama-3.1-8b-instant",
+            model_used=model_used,
             follow_up_questions=follow_up_questions,
             session_id=session_id
         )
         
     except Exception as e:
-        print(f"❌ Error processing question: {e}")
-        raise HTTPException(
-            status_code=500,
-            detail=f"😅 Oops! Ragnosis AI encountered a small hiccup. Please try again!"
+        print(f"❌ Critical error: {e}")
+        # Ultimate fallback
+        fallback_response = "I'm here to help! While I'm experiencing technical difficulties, please consult a healthcare professional for immediate medical concerns. For non-urgent matters, I'll be back to full functionality shortly."
+        
+        return QuestionResponse(
+            answer=fallback_response,
+            sources=[],
+            response_time=round(time.time() - start_time, 2),
+            model_used="emergency-fallback",
+            follow_up_questions=["How can I help you today?", "Are you experiencing any specific symptoms?"],
+            session_id=request.session_id or f"emergency_{int(time.time())}"
         )
 
-@app.post("/quick-chat")
-async def quick_chat(message: dict):
-    """Simple chat endpoint for casual conversation"""
-    if not groq_client:
-        return {"response": "🤖 Hi there! I'm Ragnosis AI. I'm currently getting ready to chat. Please check back in a moment!"}
-    
-    user_message = message.get("message", "")
-    session_id = message.get("session_id", "")
-    
-    # Get or create session
-    session_id, session_data = get_or_create_session(session_id)
-    
-    # Simple greetings and casual responses
-    greetings = {
-        "hi": "👋 Hello there! I'm Ragnosis AI, your friendly medical companion. How can I help you today?",
-        "hello": "👋 Hey! Great to meet you! I'm here to chat about health topics or just have a friendly conversation. What's on your mind?",
-        "hey": "😊 Hey there! I'm Ragnosis AI, ready to help with medical questions or just chat. How are you doing?",
-        "how are you": "🤖 I'm functioning perfectly, thanks for asking! Just here waiting to help you with any health questions or have a nice chat. How about you?",
-        "what can you do": "🎯 I'm your AI health companion! I can:\n• Answer medical questions\n• Provide health information\n• Chat about wellness topics\n• Offer friendly advice\n• And just be a good listener!",
-        "thanks": "💖 You're very welcome! I'm always here to help. Feel free to ask me anything else!",
-        "thank you": "😊 My pleasure! Happy to assist. What else can I help with?"
-    }
-    
-    # Check for simple greetings
-    lower_msg = user_message.lower().strip()
-    for greeting, response in greetings.items():
-        if greeting in lower_msg:
-            # Update session
-            session_data['conversation_history'].extend([
-                {"role": "user", "content": user_message},
-                {"role": "assistant", "content": response}
-            ])
-            session_data['message_count'] += 1
-            
-            return {
-                "response": response,
-                "session_id": session_id
-            }
-    
-    # For other messages, use AI
+@app.get("/api/stats")
+async def get_stats():
+    """Get system statistics"""
     try:
-        prompt = f"""You are Ragnosis AI - a friendly, cheerful AI assistant. The user said: "{user_message}"
-
-Respond in a warm, conversational tone. Use emojis occasionally. Be helpful and engaging. If it's a medical question, provide useful information. If it's casual chat, be friendly and natural.
-
-Your response:"""
+        conn = sqlite3.connect('ragnosis_users.db', check_same_thread=False)
+        cursor = conn.cursor()
         
-        messages = [{"role": "user", "content": prompt}]
-        response = generate_ai_response(messages, temperature=0.8)
+        cursor.execute('SELECT COUNT(*) FROM user_sessions')
+        total_sessions = cursor.fetchone()[0]
         
-        # Update session
-        session_data['conversation_history'].extend([
-            {"role": "user", "content": user_message},
-            {"role": "assistant", "content": response}
-        ])
-        session_data['message_count'] += 1
+        cursor.execute('SELECT COUNT(*) FROM conversation_logs')
+        total_messages = cursor.fetchone()[0]
+        
+        conn.close()
         
         return {
-            "response": response,
-            "session_id": session_id
+            "total_sessions": total_sessions,
+            "total_messages": total_messages,
+            "total_queries": query_counter,
+            "system_uptime": str(datetime.now() - system_startup_time)
         }
-        
     except Exception as e:
-        return {
-            "response": "😅 Oops! I'm having trouble responding right now. Please try again in a moment!",
-            "session_id": session_id
-        }
-
-@app.post("/auth/test")
-async def test_auth(_: str = Depends(verify_token)):
-    """Test authentication (protected)"""
-    return {"message": "Ragnosis AI authentication successful! 🎉", "status": "valid"}
-
-# Error handlers
-@app.exception_handler(500)
-async def internal_error_handler(request, exc):
-    return JSONResponse(
-        status_code=500,
-        content={"detail": "😅 Oops! Ragnosis AI is taking a quick coffee break. Please try again soon!"}
-    )
-
-@app.exception_handler(429)
-async def rate_limit_handler(request, exc):
-    return JSONResponse(
-        status_code=429,
-        content={"detail": "⏳ Whoa there! Let's slow down a bit. Please wait a moment before sending more messages."}
-    )
-
-@app.exception_handler(404)
-async def not_found_handler(request, exc):
-    return JSONResponse(
-        status_code=404,
-        content={"detail": "🔍 Hmm, I couldn't find what you're looking for. Let's try something else!"}
-    )
+        return {"error": str(e)}
 
 if __name__ == "__main__":
     uvicorn.run(
