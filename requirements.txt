@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+groq
+chromadb
+sentence-transformers
+python-multipart
+python-dotenv
+wikipedia-api
+requests
+pydantic
+aiofiles
