@@ -606,3 +606,2477 @@ ________________________________________
 •	Vaccination: OPV (oral) or IPV (inactivated).
 •	Sanitation and hygiene.
 •	Global eradication efforts.
+
+1. Alzheimer’s Disease
+1. Classifications and Causes:
+•	Classification: Neurodegenerative disorder.
+•	Causes: Accumulation of beta-amyloid plaques, tau protein tangles, genetic factors (e.g., APOE-e4), aging.
+2. Symptoms and Signs:
+•	Memory loss, confusion, difficulty performing familiar tasks, changes in mood and behavior.
+3. Diagnosis:
+•	Cognitive tests (MMSE), brain imaging (MRI, PET scans), biomarkers in cerebrospinal fluid.
+4. Treatment and Management:
+•	Medications: Donepezil, Rivastigmine, Memantine.
+•	Supportive care, cognitive therapy, lifestyle modifications.
+5. Prevention:
+•	Regular physical and mental activity, healthy diet, control of cardiovascular risk factors.
+________________________________________
+2. Parkinson’s Disease
+1. Classifications and Causes:
+•	Classification: Neurodegenerative movement disorder.
+•	Causes: Dopamine-producing neuron degeneration, genetic mutations (LRRK2, PARK7), environmental toxins.
+2. Symptoms and Signs:
+•	Tremor at rest, bradykinesia, rigidity, postural instability, speech changes.
+3. Diagnosis:
+•	Clinical evaluation, response to dopaminergic medications, imaging (DAT scan).
+4. Treatment and Management:
+•	Medications: Levodopa-carbidopa, dopamine agonists.
+•	Physical therapy, occupational therapy, deep brain stimulation in advanced cases.
+5. Prevention:
+•	No definitive prevention; exercise and avoiding toxins may reduce risk.
+________________________________________
+3. Amyotrophic Lateral Sclerosis (ALS)
+1. Classifications and Causes:
+•	Classification: Motor neuron disease.
+•	Causes: Genetic mutations (SOD1, C9orf72), unknown environmental triggers.
+2. Symptoms and Signs:
+•	Muscle weakness, atrophy, spasticity, difficulty speaking/swallowing.
+3. Diagnosis:
+•	Electromyography (EMG), nerve conduction studies, MRI, ruling out other conditions.
+4. Treatment and Management:
+•	Medications: Riluzole, Edaravone.
+•	Supportive care: respiratory therapy, nutrition management, mobility aids.
+5. Prevention:
+•	No known prevention; genetic counseling may help in familial cases.
+________________________________________
+4. Huntington’s Disease
+1. Classifications and Causes:
+•	Classification: Genetic neurodegenerative disorder.
+•	Causes: Autosomal dominant mutation in the HTT gene causing abnormal huntingtin protein.
+2. Symptoms and Signs:
+•	Involuntary movements (chorea), cognitive decline, psychiatric disturbances.
+3. Diagnosis:
+•	Genetic testing, neurological examination, MRI.
+4. Treatment and Management:
+•	Symptomatic treatment: tetrabenazine for movement, antipsychotics for psychiatric symptoms.
+•	Supportive care: physical, occupational, and speech therapy.
+5. Prevention:
+•	Genetic counseling for at-risk families.
+________________________________________
+5. Multiple Sclerosis (MS)
+1. Classifications and Causes:
+•	Classification: Autoimmune demyelinating disorder.
+•	Causes: Immune-mediated attack on CNS myelin, genetic susceptibility, environmental triggers (vitamin D deficiency, viral infections).
+2. Symptoms and Signs:
+•	Fatigue, numbness, weakness, vision problems, balance difficulties.
+3. Diagnosis:
+•	MRI (lesions), lumbar puncture (oligoclonal bands), clinical evaluation.
+4. Treatment and Management:
+•	Disease-modifying therapies: interferons, natalizumab.
+•	Symptom management: corticosteroids, physiotherapy.
+5. Prevention:
+•	No definitive prevention; adequate vitamin D and avoiding smoking may reduce risk.
+________________________________________
+6. Cystic Fibrosis
+1. Classifications and Causes:
+•	Classification: Genetic disorder (autosomal recessive).
+•	Causes: Mutations in the CFTR gene affecting chloride channels.
+2. Symptoms and Signs:
+•	Thick mucus in lungs, chronic respiratory infections, pancreatic insufficiency, poor growth.
+3. Diagnosis:
+•	Sweat chloride test, genetic testing, newborn screening.
+4. Treatment and Management:
+•	Chest physiotherapy, medications (mucolytics, antibiotics, CFTR modulators), nutritional support.
+5. Prevention:
+•	Carrier screening and genetic counseling.
+________________________________________
+7. Marfan Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic connective tissue disorder.
+•	Causes: Mutation in FBN1 gene affecting fibrillin-1.
+2. Symptoms and Signs:
+•	Tall stature, long limbs/fingers, cardiovascular abnormalities (aortic aneurysm), lens dislocation.
+3. Diagnosis:
+•	Clinical evaluation, echocardiography, genetic testing.
+4. Treatment and Management:
+•	Beta-blockers, surgery for aortic issues, regular monitoring.
+5. Prevention:
+•	Genetic counseling for families with known mutations.
+________________________________________
+8. Sickle Cell Anemia
+1. Classifications and Causes:
+•	Classification: Hemoglobinopathy (genetic).
+•	Causes: Mutation in HBB gene leading to abnormal hemoglobin S.
+2. Symptoms and Signs:
+•	Anemia, pain crises, fatigue, susceptibility to infections.
+3. Diagnosis:
+•	Blood smear, hemoglobin electrophoresis, genetic testing.
+4. Treatment and Management:
+•	Hydroxyurea, blood transfusions, pain management, bone marrow transplant in select cases.
+5. Prevention:
+•	Carrier screening, genetic counseling, prenatal testing.
+________________________________________
+9. Thalassemia
+1. Classifications and Causes:
+•	Classification: Hemoglobinopathy.
+•	Causes: Mutations in HBA or HBB genes leading to reduced hemoglobin production.
+2. Symptoms and Signs:
+•	Anemia, pallor, jaundice, skeletal deformities.
+3. Diagnosis:
+•	Complete blood count, hemoglobin electrophoresis, genetic testing.
+4. Treatment and Management:
+•	Regular blood transfusions, iron chelation therapy, bone marrow transplant in severe cases.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+10. Hemophilia
+1. Classifications and Causes:
+•	Classification: X-linked bleeding disorder.
+•	Causes: Deficiency of clotting factor VIII (Hemophilia A) or IX (Hemophilia B).
+2. Symptoms and Signs:
+•	Excessive bleeding, spontaneous bruising, joint pain/swelling.
+3. Diagnosis:
+•	Coagulation factor assays, genetic testing.
+4. Treatment and Management:
+•	Replacement therapy with clotting factors, prophylactic infusions.
+•	Avoiding trauma, physiotherapy for joints.
+5. Prevention:
+•	Genetic counseling, prenatal diagnosis.
+________________________________________
+11. Creutzfeldt-Jakob Disease (CJD)
+1. Classifications and Causes:
+•	Classification: Prion disease.
+•	Causes: Misfolded prion proteins, can be sporadic, inherited, or acquired.
+2. Symptoms and Signs:
+•	Rapid dementia, myoclonus, behavioral changes, ataxia.
+3. Diagnosis:
+•	EEG, MRI, cerebrospinal fluid tests for 14-3-3 protein, brain biopsy in rare cases.
+4. Treatment and Management:
+•	No cure; supportive care for symptoms.
+5. Prevention:
+•	Avoiding contaminated surgical instruments, prion-infected tissues.
+________________________________________
+12. Gaucher Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Deficiency of glucocerebrosidase enzyme due to GBA gene mutation.
+2. Symptoms and Signs:
+•	Enlarged liver/spleen, anemia, bone pain, growth delay.
+3. Diagnosis:
+•	Enzyme activity assay, genetic testing, bone marrow biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, substrate reduction therapy, supportive care.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+13. Fabry Disease
+1. Classifications and Causes:
+•	Classification: X-linked lysosomal storage disorder.
+•	Causes: Deficiency of alpha-galactosidase A due to GLA gene mutation.
+2. Symptoms and Signs:
+•	Pain in hands/feet, kidney dysfunction, heart problems, angiokeratomas.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, kidney biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, pain management, dialysis/transplant in renal failure.
+5. Prevention:
+•	Genetic counseling, early diagnosis.
+________________________________________
+14. Niemann-Pick Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Deficiency of sphingomyelinase due to SMPD1 gene mutation.
+2. Symptoms and Signs:
+•	Enlarged liver/spleen, developmental delays, neurological deterioration.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, bone marrow biopsy.
+4. Treatment and Management:
+•	Supportive care, enzyme replacement therapy in select types.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+15. Wilson’s Disease
+1. Classifications and Causes:
+•	Classification: Genetic metabolic disorder.
+•	Causes: Mutation in ATP7B gene leading to copper accumulation.
+2. Symptoms and Signs:
+•	Liver disease, neurological symptoms, Kayser-Fleischer rings in eyes.
+3. Diagnosis:
+•	Serum ceruloplasmin, 24-hour urinary copper, liver biopsy, genetic testing.
+4. Treatment and Management:
+•	Chelation therapy (D-penicillamine, trientine), zinc therapy, liver transplant in severe cases.
+5. Prevention:
+•	Genetic counseling, early screening in families.
+________________________________________
+16. Phenylketonuria (PKU)
+1. Classifications and Causes:
+•	Classification: Inborn error of metabolism.
+•	Causes: Deficiency of phenylalanine hydroxylase due to PAH gene mutation.
+2. Symptoms and Signs:
+•	Intellectual disability, behavioral issues, fair skin, musty odor.
+3. Diagnosis:
+•	Newborn screening (blood test), genetic testing.
+4. Treatment and Management:
+•	Low-phenylalanine diet, supplementation with tyrosine.
+5. Prevention:
+•	Prenatal and newborn screening, dietary management.
+________________________________________
+17. Tay-Sachs Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Hexosaminidase A deficiency due to HEXA gene mutation.
+2. Symptoms and Signs:
+•	Neurodegeneration, developmental delay, cherry-red spot in retina, seizures.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, clinical evaluation.
+4. Treatment and Management:
+•	Supportive care; no cure currently.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+18. Duchenne Muscular Dystrophy
+1. Classifications and Causes:
+•	Classification: X-linked muscular dystrophy.
+•	Causes: Mutation in DMD gene leading to absence of dystrophin.
+2. Symptoms and Signs:
+•	Progressive muscle weakness, calf hypertrophy, difficulty walking, respiratory issues.
+3. Diagnosis:
+•	Genetic testing, muscle biopsy, creatine kinase levels.
+4. Treatment and Management:
+•	Corticosteroids, physiotherapy, cardiac and respiratory support.
+5. Prevention:
+•	Genetic counseling, prenatal diagnosis.
+________________________________________
+19. Osteogenesis Imperfecta
+1. Classifications and Causes:
+•	Classification: Genetic connective tissue disorder.
+•	Causes: Mutations in COL1A1 or COL1A2 genes affecting collagen production.
+2. Symptoms and Signs:
+•	Fragile bones, frequent fractures, short stature, hearing loss.
+3. Diagnosis:
+•	Clinical evaluation, genetic testing, bone density scan.
+4. Treatment and Management:
+•	Bisphosphonates, physiotherapy, surgical intervention for fractures.
+5. Prevention:
+•	Genetic counseling, prenatal testing.
+________________________________________
+20. Ehlers-Danlos Syndrome
+1. Classifications and Causes:
+•	Classification: Hereditary connective tissue disorder.
+•	Causes: Mutations in genes affecting collagen synthesis (e.g., COL5A1, COL3A1).
+2. Symptoms and Signs:
+•	Hyperflexible joints, skin hyperextensibility, easy bruising, vascular complications in severe types.
+3. Diagnosis:
+•	Clinical evaluation, genetic testing, skin biopsy.
+4. Treatment and Management:
+•	Symptomatic management, physiotherapy, surgical interventions for severe vascular issues.
+5. Prevention:
+•	Genetic counseling, avoiding high-risk activities that may cause injury.
+21. Rett Syndrome
+1. Classifications and Causes:
+•	Classification: Neurodevelopmental disorder.
+•	Causes: Mutations in the MECP2 gene, mostly affecting females.
+2. Symptoms and Signs:
+•	Loss of purposeful hand skills, speech regression, repetitive hand movements, seizures.
+3. Diagnosis:
+•	Clinical evaluation, genetic testing.
+4. Treatment and Management:
+•	Supportive care, physical therapy, seizure management.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+22. Prader-Willi Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic disorder.
+•	Causes: Deletion or disruption of paternal chromosome 15.
+2. Symptoms and Signs:
+•	Hyperphagia, obesity, intellectual disability, hypotonia.
+3. Diagnosis:
+•	Genetic testing, methylation analysis.
+4. Treatment and Management:
+•	Growth hormone therapy, dietary management, behavioral therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+23. Angelman Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic neurodevelopmental disorder.
+•	Causes: Loss of function of maternal UBE3A gene.
+2. Symptoms and Signs:
+•	Developmental delay, speech impairment, seizures, happy demeanor.
+3. Diagnosis:
+•	Genetic testing, clinical evaluation.
+4. Treatment and Management:
+•	Seizure management, physical and speech therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+24. Alkaptonuria
+1. Classifications and Causes:
+•	Classification: Rare metabolic disorder.
+•	Causes: Deficiency of homogentisate 1,2-dioxygenase enzyme.
+2. Symptoms and Signs:
+•	Dark urine, ochronosis (bluish-black pigmentation of connective tissue), joint pain.
+3. Diagnosis:
+•	Urine analysis, genetic testing.
+4. Treatment and Management:
+•	Symptomatic management, dietary restriction of phenylalanine and tyrosine, pain relief.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+25. Maple Syrup Urine Disease (MSUD)
+1. Classifications and Causes:
+•	Classification: Metabolic disorder.
+•	Causes: Deficiency of branched-chain alpha-keto acid dehydrogenase complex.
+2. Symptoms and Signs:
+•	Sweet-smelling urine, poor feeding, lethargy, developmental delay.
+3. Diagnosis:
+•	Newborn screening, blood amino acid analysis, genetic testing.
+4. Treatment and Management:
+•	Dietary restriction of branched-chain amino acids, thiamine supplementation, liver transplant in severe cases.
+5. Prevention:
+•	Prenatal and genetic counseling.
+________________________________________
+26. Niemann-Pick Type C Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Mutations in NPC1 or NPC2 genes affecting cholesterol trafficking.
+2. Symptoms and Signs:
+•	Progressive neurodegeneration, ataxia, vertical gaze palsy, liver/spleen enlargement.
+3. Diagnosis:
+•	Genetic testing, cholesterol accumulation studies.
+4. Treatment and Management:
+•	Miglustat therapy, supportive care, physiotherapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+27. Klinefelter Syndrome
+1. Classifications and Causes:
+•	Classification: Chromosomal disorder (XXY).
+•	Causes: Extra X chromosome in males.
+2. Symptoms and Signs:
+•	Hypogonadism, infertility, tall stature, learning difficulties.
+3. Diagnosis:
+•	Karyotyping, hormone analysis.
+4. Treatment and Management:
+•	Testosterone replacement therapy, fertility treatments, educational support.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+28. Turner Syndrome
+1. Classifications and Causes:
+•	Classification: Chromosomal disorder (monosomy X).
+•	Causes: Complete or partial absence of one X chromosome in females.
+2. Symptoms and Signs:
+•	Short stature, ovarian insufficiency, webbed neck, heart defects.
+3. Diagnosis:
+•	Karyotyping, hormone analysis.
+4. Treatment and Management:
+•	Growth hormone therapy, estrogen replacement, cardiac monitoring.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+29. Hyper IgM Syndrome
+1. Classifications and Causes:
+•	Classification: Primary immunodeficiency.
+•	Causes: Mutation in CD40 ligand or other related genes, affecting immunoglobulin class switching.
+2. Symptoms and Signs:
+•	Recurrent infections, neutropenia, lymphoid hyperplasia.
+3. Diagnosis:
+•	Immunoglobulin profiling, genetic testing.
+4. Treatment and Management:
+•	Immunoglobulin replacement therapy, antibiotics, hematopoietic stem cell transplant in severe cases.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+30. Severe Combined Immunodeficiency (SCID)
+1. Classifications and Causes:
+•	Classification: Primary immunodeficiency.
+•	Causes: Genetic mutations affecting T and B cell function (e.g., IL2RG, ADA gene mutations).
+2. Symptoms and Signs:
+•	Severe infections early in life, failure to thrive, chronic diarrhea.
+3. Diagnosis:
+•	Lymphocyte count, genetic testing, immunophenotyping.
+4. Treatment and Management:
+•	Bone marrow transplantation, gene therapy, antimicrobial prophylaxis.
+5. Prevention:
+•	Newborn screening, genetic counseling.
+________________________________________
+31. Leber Hereditary Optic Neuropathy (LHON)
+1. Classifications and Causes:
+•	Classification: Mitochondrial genetic disorder.
+•	Causes: Mutations in mitochondrial DNA affecting retinal ganglion cells.
+2. Symptoms and Signs:
+•	Sudden central vision loss, optic nerve atrophy.
+3. Diagnosis:
+•	Genetic testing, ophthalmologic evaluation, visual field testing.
+4. Treatment and Management:
+•	Idebenone therapy, supportive care, low-vision aids.
+5. Prevention:
+•	Genetic counseling, avoid smoking and alcohol.
+________________________________________
+32. Charcot-Marie-Tooth Disease (CMT)
+1. Classifications and Causes:
+•	Classification: Hereditary peripheral neuropathy.
+•	Causes: Mutations in genes affecting peripheral nerve myelin or axons (PMP22, MPZ, GJB1).
+2. Symptoms and Signs:
+•	Muscle weakness in feet/legs, foot deformities, numbness, gait abnormalities.
+3. Diagnosis:
+•	Nerve conduction studies, genetic testing, clinical evaluation.
+4. Treatment and Management:
+•	Physiotherapy, orthotic devices, occupational therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+33. Myasthenia Gravis
+1. Classifications and Causes:
+•	Classification: Autoimmune neuromuscular disorder.
+•	Causes: Autoantibodies against acetylcholine receptors or MuSK protein.
+2. Symptoms and Signs:
+•	Muscle weakness, ptosis, diplopia, difficulty swallowing or speaking.
+3. Diagnosis:
+•	Antibody testing, electromyography (EMG), CT scan for thymoma.
+4. Treatment and Management:
+•	Acetylcholinesterase inhibitors, immunosuppressants, thymectomy, plasmapheresis.
+5. Prevention:
+•	No definitive prevention; early diagnosis reduces complications.
+________________________________________
+34. Guillain-Barré Syndrome (GBS)
+1. Classifications and Causes:
+•	Classification: Acute autoimmune polyneuropathy.
+•	Causes: Post-infectious immune response (Campylobacter, influenza, COVID-19).
+2. Symptoms and Signs:
+•	Rapidly progressive weakness, tingling in limbs, difficulty breathing.
+3. Diagnosis:
+•	Nerve conduction studies, lumbar puncture (elevated protein in CSF), clinical evaluation.
+4. Treatment and Management:
+•	Intravenous immunoglobulin (IVIG), plasmapheresis, supportive care.
+5. Prevention:
+•	No specific prevention; prompt treatment of infections may help.
+________________________________________
+35. Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+1. Classifications and Causes:
+•	Classification: Chronic autoimmune neuropathy.
+•	Causes: Autoimmune attack on peripheral nerves; exact trigger unknown.
+2. Symptoms and Signs:
+•	Progressive weakness, sensory loss, impaired reflexes.
+3. Diagnosis:
+•	Nerve conduction studies, CSF analysis, clinical evaluation.
+4. Treatment and Management:
+•	Corticosteroids, IVIG, immunosuppressants, physical therapy.
+5. Prevention:
+•	No definitive prevention; early treatment improves prognosis.
+________________________________________
+36. Friedreich’s Ataxia
+1. Classifications and Causes:
+•	Classification: Autosomal recessive neurodegenerative disorder.
+•	Causes: GAA trinucleotide repeat expansion in FXN gene affecting frataxin protein.
+2. Symptoms and Signs:
+•	Progressive gait and limb ataxia, scoliosis, cardiomyopathy, speech difficulties.
+3. Diagnosis:
+•	Genetic testing, neurological examination, cardiac evaluation.
+4. Treatment and Management:
+•	Symptomatic management, physical therapy, cardiac care.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+37. Ataxia-Telangiectasia
+1. Classifications and Causes:
+•	Classification: Autosomal recessive disorder.
+•	Causes: Mutation in ATM gene affecting DNA repair.
+2. Symptoms and Signs:
+•	Progressive cerebellar ataxia, telangiectasias (eyes/skin), immune deficiency.
+3. Diagnosis:
+•	Genetic testing, immunological evaluation, alpha-fetoprotein levels.
+4. Treatment and Management:
+•	Symptomatic care, physiotherapy, infection management.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+38. Spinal Muscular Atrophy (SMA)
+1. Classifications and Causes:
+•	Classification: Genetic neuromuscular disorder.
+•	Causes: Mutation in SMN1 gene leading to motor neuron loss.
+2. Symptoms and Signs:
+•	Muscle weakness, hypotonia, difficulty swallowing, respiratory issues.
+3. Diagnosis:
+•	Genetic testing, EMG, muscle biopsy.
+4. Treatment and Management:
+•	Nusinersen, gene therapy (onasemnogene), supportive care.
+5. Prevention:
+•	Genetic counseling, carrier screening.
+________________________________________
+39. Pompe Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Deficiency of acid alpha-glucosidase enzyme.
+2. Symptoms and Signs:
+•	Muscle weakness, cardiomyopathy (infantile), respiratory problems.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, muscle biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, respiratory support, physical therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+40. Rett Variant MECP2 Duplication Syndrome
+1. Classifications and Causes:
+•	Classification: X-linked neurodevelopmental disorder.
+•	Causes: Duplication of MECP2 gene in males.
+2. Symptoms and Signs:
+•	Intellectual disability, hypotonia, recurrent infections, seizures.
+3. Diagnosis:
+•	Genetic testing.
+4. Treatment and Management:
+•	Supportive therapy, seizure control, physiotherapy.
+5. Prevention:
+•	Genetic counseling.
+41. Niemann-Pick Disease Type A
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Acid sphingomyelinase deficiency due to SMPD1 gene mutation.
+2. Symptoms and Signs:
+•	Failure to thrive, hepatosplenomegaly, neurodegeneration, cherry-red spot on retina.
+3. Diagnosis:
+•	Enzyme assay, genetic testing.
+4. Treatment and Management:
+•	Supportive care, symptomatic treatment.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+42. Niemann-Pick Disease Type B
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Partial deficiency of acid sphingomyelinase.
+2. Symptoms and Signs:
+•	Hepatosplenomegaly, lung involvement, mild neurological involvement.
+3. Diagnosis:
+•	Enzyme assay, genetic testing.
+4. Treatment and Management:
+•	Supportive care, enzyme replacement therapy in trials.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+43. Bloom Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic disorder.
+•	Causes: Mutations in BLM gene affecting DNA helicase.
+2. Symptoms and Signs:
+•	Short stature, sun-sensitive skin, immunodeficiency, increased cancer risk.
+3. Diagnosis:
+•	Chromosomal breakage analysis, genetic testing.
+4. Treatment and Management:
+•	Regular cancer screening, infection management, sun protection.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+44. Cockayne Syndrome
+1. Classifications and Causes:
+•	Classification: Rare genetic disorder.
+•	Causes: Mutations in ERCC6 or ERCC8 genes affecting DNA repair.
+2. Symptoms and Signs:
+•	Growth failure, microcephaly, photosensitivity, neurological degeneration.
+3. Diagnosis:
+•	Clinical evaluation, genetic testing.
+4. Treatment and Management:
+•	Symptomatic care, physiotherapy, vision support.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+45. Xeroderma Pigmentosum
+1. Classifications and Causes:
+•	Classification: Autosomal recessive disorder.
+•	Causes: Defective nucleotide excision repair of UV-induced DNA damage.
+2. Symptoms and Signs:
+•	Extreme UV sensitivity, freckling, early skin cancers, eye abnormalities.
+3. Diagnosis:
+•	DNA repair assays, genetic testing.
+4. Treatment and Management:
+•	Strict UV protection, regular dermatologic surveillance, surgical removal of lesions.
+5. Prevention:
+•	Genetic counseling, UV avoidance.
+________________________________________
+46. Li-Fraumeni Syndrome
+1. Classifications and Causes:
+•	Classification: Hereditary cancer predisposition syndrome.
+•	Causes: TP53 gene mutation.
+2. Symptoms and Signs:
+•	Early-onset cancers including breast, sarcomas, brain tumors, leukemia.
+3. Diagnosis:
+•	Genetic testing, family history analysis.
+4. Treatment and Management:
+•	Cancer surveillance, early intervention, risk-reducing strategies.
+5. Prevention:
+•	Genetic counseling, proactive cancer screening.
+________________________________________
+47. Cowden Syndrome
+1. Classifications and Causes:
+•	Classification: Hereditary cancer syndrome.
+•	Causes: PTEN gene mutation.
+2. Symptoms and Signs:
+•	Multiple hamartomas, increased risk of breast, thyroid, endometrial cancers.
+3. Diagnosis:
+•	Genetic testing, clinical criteria.
+4. Treatment and Management:
+•	Regular cancer surveillance, surgical interventions if needed.
+5. Prevention:
+•	Genetic counseling, screening programs.
+________________________________________
+48. Peutz-Jeghers Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic disorder.
+•	Causes: Mutation in STK11 gene.
+2. Symptoms and Signs:
+•	Mucocutaneous pigmentation, gastrointestinal polyps, increased cancer risk.
+3. Diagnosis:
+•	Genetic testing, endoscopic evaluation.
+4. Treatment and Management:
+•	Polyp removal, cancer surveillance, supportive care.
+5. Prevention:
+•	Genetic counseling, regular screening.
+________________________________________
+49. Familial Adenomatous Polyposis (FAP)
+1. Classifications and Causes:
+•	Classification: Hereditary colorectal cancer syndrome.
+•	Causes: APC gene mutation.
+2. Symptoms and Signs:
+•	Multiple colorectal polyps, possible extracolonic manifestations.
+3. Diagnosis:
+•	Colonoscopy, genetic testing.
+4. Treatment and Management:
+•	Prophylactic colectomy, regular surveillance.
+5. Prevention:
+•	Genetic counseling, early colonoscopic screening.
+________________________________________
+50. Lynch Syndrome
+1. Classifications and Causes:
+•	Classification: Hereditary nonpolyposis colorectal cancer (HNPCC).
+•	Causes: Mutations in mismatch repair genes (MLH1, MSH2, MSH6, PMS2).
+2. Symptoms and Signs:
+•	Early-onset colorectal cancer, increased risk of endometrial and other cancers.
+3. Diagnosis:
+•	Genetic testing, microsatellite instability testing, family history.
+4. Treatment and Management:
+•	Regular surveillance, prophylactic surgeries, cancer treatment as indicated.
+5. Prevention:
+•	Genetic counseling, early and regular screenings.
+51. Von Hippel-Lindau Disease
+1. Classifications and Causes:
+•	Classification: Hereditary cancer syndrome.
+•	Causes: Mutation in VHL gene leading to tumor development in multiple organs.
+2. Symptoms and Signs:
+•	Hemangioblastomas, renal cell carcinoma, pheochromocytomas, cysts in pancreas/kidney.
+3. Diagnosis:
+•	Genetic testing, MRI/CT for tumor detection.
+4. Treatment and Management:
+•	Surgical removal of tumors, surveillance imaging, targeted therapy if needed.
+5. Prevention:
+•	Genetic counseling, regular screening.
+________________________________________
+52. Tuberous Sclerosis Complex (TSC)
+1. Classifications and Causes:
+•	Classification: Genetic disorder causing benign tumors.
+•	Causes: Mutations in TSC1 or TSC2 genes.
+2. Symptoms and Signs:
+•	Seizures, intellectual disability, skin lesions, renal angiomyolipomas.
+3. Diagnosis:
+•	Genetic testing, imaging studies, clinical evaluation.
+4. Treatment and Management:
+•	mTOR inhibitors, seizure management, surgery for tumors.
+5. Prevention:
+•	Genetic counseling, prenatal diagnosis.
+________________________________________
+53. Neurofibromatosis Type 1 (NF1)
+1. Classifications and Causes:
+•	Classification: Genetic disorder.
+•	Causes: NF1 gene mutation causing tumor suppressor dysfunction.
+2. Symptoms and Signs:
+•	Café-au-lait spots, neurofibromas, Lisch nodules, skeletal abnormalities.
+3. Diagnosis:
+•	Genetic testing, clinical criteria, imaging for tumor detection.
+4. Treatment and Management:
+•	Symptomatic management, surgery for tumors, regular monitoring.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+54. Neurofibromatosis Type 2 (NF2)
+1. Classifications and Causes:
+•	Classification: Genetic disorder.
+•	Causes: Mutation in NF2 gene affecting merlin protein.
+2. Symptoms and Signs:
+•	Bilateral vestibular schwannomas, hearing loss, balance problems.
+3. Diagnosis:
+•	Genetic testing, MRI of brain and spine, audiometry.
+4. Treatment and Management:
+•	Surgical removal of tumors, radiation therapy, hearing support.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+55. Sturge-Weber Syndrome
+1. Classifications and Causes:
+•	Classification: Neurocutaneous disorder.
+•	Causes: Somatic activating mutation in GNAQ gene.
+2. Symptoms and Signs:
+•	Port-wine stain on face, seizures, glaucoma, leptomeningeal angiomas.
+3. Diagnosis:
+•	MRI/CT of brain, ophthalmologic evaluation, clinical features.
+4. Treatment and Management:
+•	Laser therapy for skin lesions, anticonvulsants, glaucoma management.
+5. Prevention:
+•	No known prevention; early detection improves management.
+________________________________________
+56. Rett Syndrome Variant
+1. Classifications and Causes:
+•	Classification: Neurodevelopmental disorder.
+•	Causes: MECP2 gene mutations.
+2. Symptoms and Signs:
+•	Developmental regression, hand stereotypies, seizures.
+3. Diagnosis:
+•	Genetic testing, clinical evaluation.
+4. Treatment and Management:
+•	Supportive care, physiotherapy, seizure management.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+57. Angelman-like Syndrome (UBE3A Duplication)
+1. Classifications and Causes:
+•	Classification: Genetic neurodevelopmental disorder.
+•	Causes: Duplication or mutation of UBE3A gene.
+2. Symptoms and Signs:
+•	Developmental delays, speech impairment, happy demeanor, seizures.
+3. Diagnosis:
+•	Genetic testing, EEG, clinical evaluation.
+4. Treatment and Management:
+•	Symptomatic treatment, seizure control, therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+58. Cri-du-Chat Syndrome
+1. Classifications and Causes:
+•	Classification: Chromosomal disorder.
+•	Causes: Deletion on short arm of chromosome 5 (5p-).
+2. Symptoms and Signs:
+•	Cat-like cry, intellectual disability, microcephaly, distinctive facial features.
+3. Diagnosis:
+•	Chromosomal analysis, genetic testing.
+4. Treatment and Management:
+•	Supportive care, speech and physical therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+59. Williams Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic disorder.
+•	Causes: Deletion of 26–28 genes on chromosome 7q11.23.
+2. Symptoms and Signs:
+•	Cardiovascular disease, distinctive facial features, intellectual disability, overly friendly personality.
+3. Diagnosis:
+•	Genetic testing (FISH), echocardiography.
+4. Treatment and Management:
+•	Cardiac care, developmental therapy, educational support.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+60. Cornelia de Lange Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic disorder.
+•	Causes: Mutations in NIPBL, SMC1A, or SMC3 genes.
+2. Symptoms and Signs:
+•	Growth retardation, distinctive facial features, limb abnormalities, intellectual disability.
+3. Diagnosis:
+•	Genetic testing, clinical evaluation.
+4. Treatment and Management:
+•	Supportive care, physiotherapy, developmental interventions.
+5. Prevention:
+•	Genetic counseling.
+61. Albinism
+1. Classifications and Causes:
+•	Classification: Genetic disorder of pigmentation.
+•	Causes: Mutations affecting melanin production (OCA1, OCA2, TYR genes).
+2. Symptoms and Signs:
+•	Hypopigmentation of skin, hair, eyes, visual problems, photophobia.
+3. Diagnosis:
+•	Clinical evaluation, genetic testing.
+4. Treatment and Management:
+•	Sun protection, vision correction, regular skin checks.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+62. Vitiligo
+1. Classifications and Causes:
+•	Classification: Autoimmune pigmentary disorder.
+•	Causes: Destruction of melanocytes by autoimmune processes.
+2. Symptoms and Signs:
+•	Depigmented patches on skin, hair whitening, possible ocular involvement.
+3. Diagnosis:
+•	Clinical examination, Wood's lamp, biopsy in uncertain cases.
+4. Treatment and Management:
+•	Topical corticosteroids, phototherapy, camouflage, surgical grafting in select cases.
+5. Prevention:
+•	No definitive prevention; early treatment may limit spread.
+________________________________________
+63. Epidermolysis Bullosa
+1. Classifications and Causes:
+•	Classification: Genetic skin disorder.
+•	Causes: Mutations in genes coding for structural skin proteins (KRT5, KRT14, COL7A1).
+2. Symptoms and Signs:
+•	Fragile skin, blister formation with minor trauma, nail dystrophy.
+3. Diagnosis:
+•	Skin biopsy, immunofluorescence mapping, genetic testing.
+4. Treatment and Management:
+•	Wound care, infection prevention, pain management, supportive therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+64. Ichthyosis Vulgaris
+1. Classifications and Causes:
+•	Classification: Genetic skin disorder.
+•	Causes: Mutation in filaggrin (FLG) gene.
+2. Symptoms and Signs:
+•	Dry, scaly skin, especially on extensor surfaces.
+3. Diagnosis:
+•	Clinical examination, family history, sometimes genetic testing.
+4. Treatment and Management:
+•	Moisturizers, keratolytic agents, retinoids in severe cases.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+65. Epidermolytic Hyperkeratosis
+1. Classifications and Causes:
+•	Classification: Genetic skin disorder.
+•	Causes: Mutations in keratin genes KRT1, KRT10.
+2. Symptoms and Signs:
+•	Thickened, blistering skin at birth, hyperkeratosis later.
+3. Diagnosis:
+•	Skin biopsy, genetic testing.
+4. Treatment and Management:
+•	Emollients, keratolytics, retinoids, wound care.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+66. Pachyonychia Congenita
+1. Classifications and Causes:
+•	Classification: Genetic nail and skin disorder.
+•	Causes: Mutations in KRT6A, KRT6B, KRT16, KRT17 genes.
+2. Symptoms and Signs:
+•	Thickened nails, plantar keratoderma, oral leukokeratosis.
+3. Diagnosis:
+•	Clinical evaluation, genetic testing.
+4. Treatment and Management:
+•	Pain management, keratolytics, surgical intervention for nails.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+67. Harlequin Ichthyosis
+1. Classifications and Causes:
+•	Classification: Severe congenital skin disorder.
+•	Causes: Mutation in ABCA12 gene affecting lipid transport in skin.
+2. Symptoms and Signs:
+•	Thickened, plate-like scales, facial deformities, impaired skin barrier.
+3. Diagnosis:
+•	Clinical examination at birth, genetic testing.
+4. Treatment and Management:
+•	Intensive neonatal care, retinoids, infection control, hydration.
+5. Prevention:
+•	Genetic counseling, prenatal diagnosis.
+________________________________________
+68. X-linked Ichthyosis
+1. Classifications and Causes:
+•	Classification: Genetic skin disorder.
+•	Causes: Deletion/mutation of STS gene.
+2. Symptoms and Signs:
+•	Dark, scaly patches, mainly on neck, trunk, and limbs.
+3. Diagnosis:
+•	Clinical evaluation, enzyme assay, genetic testing.
+4. Treatment and Management:
+•	Emollients, keratolytics.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+69. Kallmann Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic endocrine disorder.
+•	Causes: Mutations affecting GnRH neuron migration (KAL1, FGFR1).
+2. Symptoms and Signs:
+•	Hypogonadism, anosmia, delayed puberty, infertility.
+3. Diagnosis:
+•	Hormonal assays, MRI, genetic testing.
+4. Treatment and Management:
+•	Hormone replacement therapy, fertility treatment.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+70. Congenital Adrenal Hyperplasia (CAH)
+1. Classifications and Causes:
+•	Classification: Genetic endocrine disorder.
+•	Causes: Mutations in CYP21A2 gene leading to 21-hydroxylase deficiency.
+2. Symptoms and Signs:
+•	Ambiguous genitalia in females, salt-wasting crisis, early virilization.
+3. Diagnosis:
+•	Newborn screening, hormonal assays, genetic testing.
+4. Treatment and Management:
+•	Glucocorticoid and mineralocorticoid replacement, surgical correction if needed.
+5. Prevention:
+•	Prenatal genetic counseling, newborn screening.
+71. Androgen Insensitivity Syndrome (AIS)
+1. Classifications and Causes:
+•	Classification: Genetic endocrine disorder.
+•	Causes: Mutation in the androgen receptor gene leading to partial or complete resistance to androgens.
+2. Symptoms and Signs:
+•	Female external genitalia in XY individuals, absence of uterus, undescended testes, primary amenorrhea.
+3. Diagnosis:
+•	Karyotyping, hormone analysis, genetic testing.
+4. Treatment and Management:
+•	Gonadectomy if needed, hormone replacement therapy, psychological support.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+72. 5-Alpha-Reductase Deficiency
+1. Classifications and Causes:
+•	Classification: Genetic endocrine disorder.
+•	Causes: Mutation in SRD5A2 gene affecting conversion of testosterone to dihydrotestosterone (DHT).
+2. Symptoms and Signs:
+•	Ambiguous genitalia in XY individuals at birth, virilization at puberty.
+3. Diagnosis:
+•	Hormonal assays, genetic testing.
+4. Treatment and Management:
+•	Hormone therapy, surgical correction if needed, psychological support.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+73. Congenital Hypothyroidism
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Thyroid dysgenesis, dyshormonogenesis, iodine deficiency.
+2. Symptoms and Signs:
+•	Jaundice, hypotonia, poor feeding, developmental delay, coarse facial features.
+3. Diagnosis:
+•	Newborn screening, TSH and T4 levels.
+4. Treatment and Management:
+•	Lifelong levothyroxine therapy.
+5. Prevention:
+•	Maternal iodine sufficiency, newborn screening.
+________________________________________
+74. Panhypopituitarism
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Pituitary tumors, Sheehan’s syndrome, autoimmune destruction, genetic causes.
+2. Symptoms and Signs:
+•	Fatigue, hypotension, hypothyroidism, adrenal insufficiency, hypogonadism.
+3. Diagnosis:
+•	Hormonal assays, MRI of pituitary, clinical evaluation.
+4. Treatment and Management:
+•	Hormone replacement therapy (glucocorticoids, thyroid hormone, sex steroids), monitoring.
+5. Prevention:
+•	Early treatment of pituitary conditions, obstetric care to prevent Sheehan’s syndrome.
+________________________________________
+75. Addison’s Disease
+1. Classifications and Causes:
+•	Classification: Primary adrenal insufficiency.
+•	Causes: Autoimmune adrenalitis, infections (TB), adrenal hemorrhage.
+2. Symptoms and Signs:
+•	Fatigue, hyperpigmentation, hypotension, salt craving, hypoglycemia.
+3. Diagnosis:
+•	Serum cortisol, ACTH levels, ACTH stimulation test.
+4. Treatment and Management:
+•	Glucocorticoid and mineralocorticoid replacement, stress dose steroids.
+5. Prevention:
+•	Early diagnosis and treatment of adrenal infections or autoimmune conditions.
+________________________________________
+76. Cushing’s Syndrome
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Excess cortisol due to pituitary adenoma (Cushing’s disease), adrenal tumor, exogenous steroids.
+2. Symptoms and Signs:
+•	Weight gain, moon face, buffalo hump, hypertension, hyperglycemia.
+3. Diagnosis:
+•	24-hour urinary cortisol, dexamethasone suppression test, imaging for tumor localization.
+4. Treatment and Management:
+•	Surgery (adenoma removal), medication (ketoconazole, metyrapone), radiation therapy.
+5. Prevention:
+•	Careful monitoring of steroid therapy, early detection of tumors.
+________________________________________
+77. Conn’s Syndrome (Primary Hyperaldosteronism)
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Adrenal adenoma or hyperplasia.
+2. Symptoms and Signs:
+•	Hypertension, hypokalemia, muscle weakness, polyuria.
+3. Diagnosis:
+•	Plasma aldosterone-renin ratio, CT/MRI of adrenal glands.
+4. Treatment and Management:
+•	Surgical removal of adenoma, mineralocorticoid receptor antagonists (spironolactone).
+5. Prevention:
+•	Early screening for resistant hypertension.
+________________________________________
+78. Hyperparathyroidism
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Parathyroid adenoma, hyperplasia, MEN syndromes.
+2. Symptoms and Signs:
+•	Hypercalcemia, kidney stones, bone pain, fatigue.
+3. Diagnosis:
+•	Serum calcium, PTH levels, imaging for adenoma.
+4. Treatment and Management:
+•	Surgical removal, hydration, medications (bisphosphonates).
+5. Prevention:
+•	Monitoring of calcium levels, genetic counseling in familial cases.
+________________________________________
+79. Hypoparathyroidism
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Autoimmune destruction, surgery, genetic causes.
+2. Symptoms and Signs:
+•	Tetany, muscle cramps, paresthesia, seizures.
+3. Diagnosis:
+•	Serum calcium, PTH levels, phosphate levels.
+4. Treatment and Management:
+•	Calcium and vitamin D supplementation, recombinant PTH therapy.
+5. Prevention:
+•	Careful surgical technique during thyroid/parathyroid surgery, genetic counseling.
+________________________________________
+80. Diabetes Insipidus
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Central (ADH deficiency) or nephrogenic (renal resistance to ADH).
+2. Symptoms and Signs:
+•	Polyuria, polydipsia, dehydration, nocturia.
+3. Diagnosis:
+•	Water deprivation test, ADH levels, MRI for pituitary causes.
+4. Treatment and Management:
+•	Desmopressin for central DI, thiazides/low-salt diet for nephrogenic DI.
+5. Prevention:
+•	Early detection of underlying causes, careful use of nephrotoxic drugs.
+81. Type 1 Diabetes Mellitus
+1. Classifications and Causes:
+•	Classification: Autoimmune endocrine disorder.
+•	Causes: Autoimmune destruction of pancreatic beta cells leading to insulin deficiency.
+2. Symptoms and Signs:
+•	Polyuria, polydipsia, polyphagia, weight loss, fatigue.
+3. Diagnosis:
+•	Fasting blood glucose, HbA1c, autoantibody testing.
+4. Treatment and Management:
+•	Insulin therapy, blood glucose monitoring, dietary management.
+5. Prevention:
+•	No definitive prevention; early detection and management reduces complications.
+________________________________________
+82. Type 2 Diabetes Mellitus
+1. Classifications and Causes:
+•	Classification: Metabolic endocrine disorder.
+•	Causes: Insulin resistance and relative insulin deficiency; genetic and lifestyle factors.
+2. Symptoms and Signs:
+•	Polyuria, polydipsia, fatigue, blurred vision, slow wound healing.
+3. Diagnosis:
+•	Fasting blood glucose, HbA1c, oral glucose tolerance test.
+4. Treatment and Management:
+•	Lifestyle modification, oral hypoglycemic agents, insulin if needed.
+5. Prevention:
+•	Healthy diet, regular exercise, weight management.
+________________________________________
+83. Gestational Diabetes Mellitus
+1. Classifications and Causes:
+•	Classification: Endocrine disorder during pregnancy.
+•	Causes: Hormonal changes leading to insulin resistance.
+2. Symptoms and Signs:
+•	Often asymptomatic, polyuria, fatigue, excessive thirst.
+3. Diagnosis:
+•	Oral glucose tolerance test during pregnancy.
+4. Treatment and Management:
+•	Diet and exercise, insulin therapy if required, blood glucose monitoring.
+5. Prevention:
+•	Healthy weight before pregnancy, physical activity, regular screening.
+________________________________________
+84. Maturity-Onset Diabetes of the Young (MODY)
+1. Classifications and Causes:
+•	Classification: Genetic endocrine disorder.
+•	Causes: Mutations in single genes affecting beta-cell function (e.g., HNF1A, GCK).
+2. Symptoms and Signs:
+•	Mild hyperglycemia, often non-insulin-dependent, family history of early-onset diabetes.
+3. Diagnosis:
+•	Genetic testing, clinical evaluation, blood glucose monitoring.
+4. Treatment and Management:
+•	Sulfonylureas, diet management, sometimes insulin.
+5. Prevention:
+•	Genetic counseling, lifestyle management.
+________________________________________
+85. Hyperthyroidism (Graves’ Disease)
+1. Classifications and Causes:
+•	Classification: Autoimmune endocrine disorder.
+•	Causes: Autoantibodies stimulating TSH receptors.
+2. Symptoms and Signs:
+•	Weight loss, heat intolerance, palpitations, goiter, exophthalmos.
+3. Diagnosis:
+•	TSH, T3/T4 levels, anti-TSH receptor antibodies, thyroid scan.
+4. Treatment and Management:
+•	Antithyroid drugs, radioactive iodine, surgery.
+5. Prevention:
+•	No definitive prevention; early diagnosis helps manage complications.
+________________________________________
+86. Hypothyroidism (Hashimoto’s Thyroiditis)
+1. Classifications and Causes:
+•	Classification: Autoimmune endocrine disorder.
+•	Causes: Autoantibodies against thyroid peroxidase or thyroglobulin.
+2. Symptoms and Signs:
+•	Fatigue, weight gain, cold intolerance, bradycardia, dry skin.
+3. Diagnosis:
+•	TSH and T4 levels, anti-TPO antibody testing.
+4. Treatment and Management:
+•	Levothyroxine replacement therapy, monitoring of thyroid function.
+5. Prevention:
+•	No definitive prevention; early diagnosis reduces complications.
+________________________________________
+87. Pituitary Adenomas
+1. Classifications and Causes:
+•	Classification: Benign pituitary tumors.
+•	Causes: Sporadic mutations or familial syndromes (MEN1).
+2. Symptoms and Signs:
+•	Headache, visual field defects, hormone hypersecretion (prolactin, GH, ACTH).
+3. Diagnosis:
+•	MRI of pituitary, hormonal assays.
+4. Treatment and Management:
+•	Surgery, medical therapy (dopamine agonists), radiotherapy.
+5. Prevention:
+•	Early detection through monitoring in high-risk families.
+________________________________________
+88. Acromegaly
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: GH-secreting pituitary adenoma.
+2. Symptoms and Signs:
+•	Enlarged hands and feet, facial changes, joint pain, organomegaly.
+3. Diagnosis:
+•	IGF-1 levels, oral glucose suppression test, pituitary MRI.
+4. Treatment and Management:
+•	Surgery, somatostatin analogs, GH receptor antagonists.
+5. Prevention:
+•	Early diagnosis reduces morbidity.
+________________________________________
+89. Gigantism
+1. Classifications and Causes:
+•	Classification: Pediatric endocrine disorder.
+•	Causes: Excess GH before epiphyseal closure due to pituitary adenoma.
+2. Symptoms and Signs:
+•	Rapid growth, large hands/feet, coarse facial features.
+3. Diagnosis:
+•	IGF-1, GH suppression test, pituitary imaging.
+4. Treatment and Management:
+•	Surgical removal of adenoma, medical therapy.
+5. Prevention:
+•	Early detection of pituitary tumors.
+________________________________________
+90. Hypopituitarism
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Tumors, trauma, infections, autoimmune causes.
+2. Symptoms and Signs:
+•	Fatigue, hypotension, hypogonadism, hypothyroidism.
+3. Diagnosis:
+•	Hormone assays, MRI of pituitary.
+4. Treatment and Management:
+•	Hormone replacement therapy.
+5. Prevention:
+•	Early detection and management of pituitary lesions.
+91. Polycystic Ovary Syndrome (PCOS)
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Hormonal imbalance with elevated androgens; genetic and environmental factors.
+2. Symptoms and Signs:
+•	Irregular menstruation, hirsutism, acne, infertility, obesity.
+3. Diagnosis:
+•	Clinical criteria (Rotterdam), ultrasound, hormone levels.
+4. Treatment and Management:
+•	Lifestyle modification, oral contraceptives, insulin sensitizers, fertility treatment.
+5. Prevention:
+•	Weight management, early diagnosis, regular monitoring.
+________________________________________
+92. Turner Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Monosomy X (45,X) or mosaicism.
+2. Symptoms and Signs:
+•	Short stature, webbed neck, gonadal dysgenesis, heart defects.
+3. Diagnosis:
+•	Karyotyping, clinical evaluation, echocardiography.
+4. Treatment and Management:
+•	Growth hormone therapy, estrogen replacement, cardiac monitoring.
+5. Prevention:
+•	Prenatal diagnosis, genetic counseling.
+________________________________________
+93. Klinefelter Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Extra X chromosome (47,XXY).
+2. Symptoms and Signs:
+•	Tall stature, small testes, hypogonadism, infertility.
+3. Diagnosis:
+•	Karyotyping, hormone analysis.
+4. Treatment and Management:
+•	Testosterone replacement therapy, fertility management, psychosocial support.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+94. Precocious Puberty
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Central (GnRH-dependent) or peripheral (GnRH-independent) triggers.
+2. Symptoms and Signs:
+•	Early breast development, pubic hair, rapid growth, early menarche.
+3. Diagnosis:
+•	Hormonal assays, bone age X-ray, brain imaging for central causes.
+4. Treatment and Management:
+•	GnRH analogs for central precocious puberty, treatment of underlying causes.
+5. Prevention:
+•	Early evaluation and management.
+________________________________________
+95. Delayed Puberty
+1. Classifications and Causes:
+•	Classification: Endocrine disorder.
+•	Causes: Hypogonadotropic or hypergonadotropic, chronic illness, malnutrition, genetic disorders.
+2. Symptoms and Signs:
+•	Lack of secondary sexual characteristics by expected age, short stature.
+3. Diagnosis:
+•	Hormone assays, imaging, karyotyping.
+4. Treatment and Management:
+•	Hormone replacement therapy, treatment of underlying cause.
+5. Prevention:
+•	Early assessment in at-risk children.
+________________________________________
+96. Osteoporosis
+1. Classifications and Causes:
+•	Classification: Metabolic bone disease.
+•	Causes: Postmenopausal estrogen deficiency, aging, nutritional deficiency, secondary causes.
+2. Symptoms and Signs:
+•	Often asymptomatic until fractures, height loss, back pain.
+3. Diagnosis:
+•	DEXA scan, serum calcium and vitamin D levels.
+4. Treatment and Management:
+•	Bisphosphonates, calcium/vitamin D supplementation, weight-bearing exercises.
+5. Prevention:
+•	Adequate nutrition, exercise, avoid smoking and excessive alcohol.
+________________________________________
+97. Osteomalacia / Rickets
+1. Classifications and Causes:
+•	Classification: Metabolic bone disease.
+•	Causes: Vitamin D deficiency, phosphate deficiency, genetic disorders.
+2. Symptoms and Signs:
+•	Bone pain, deformities, muscle weakness, growth retardation in children.
+3. Diagnosis:
+•	Serum calcium, phosphate, vitamin D, alkaline phosphatase, radiographs.
+4. Treatment and Management:
+•	Vitamin D and calcium supplementation, correction of underlying causes.
+5. Prevention:
+•	Adequate dietary intake, sunlight exposure.
+________________________________________
+98. Paget’s Disease of Bone
+1. Classifications and Causes:
+•	Classification: Metabolic bone disorder.
+•	Causes: Abnormal bone remodeling; genetic factors, viral hypothesis.
+2. Symptoms and Signs:
+•	Bone pain, deformities, fractures, hearing loss.
+3. Diagnosis:
+•	Serum alkaline phosphatase, X-rays, bone scans.
+4. Treatment and Management:
+•	Bisphosphonates, pain management, surgery for fractures or deformities.
+5. Prevention:
+•	No specific prevention; early detection reduces complications.
+________________________________________
+99. Osteogenesis Imperfecta
+1. Classifications and Causes:
+•	Classification: Genetic bone disorder.
+•	Causes: Mutations in COL1A1 or COL1A2 genes affecting collagen.
+2. Symptoms and Signs:
+•	Fragile bones, frequent fractures, blue sclera, dentinogenesis imperfecta.
+3. Diagnosis:
+•	Clinical evaluation, genetic testing, radiographs.
+4. Treatment and Management:
+•	Bisphosphonates, physiotherapy, surgical fixation of fractures.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+100. Hypophosphatasia
+1. Classifications and Causes:
+•	Classification: Genetic metabolic bone disorder.
+•	Causes: Mutations in ALPL gene affecting alkaline phosphatase activity.
+2. Symptoms and Signs:
+•	Premature loss of teeth, bone pain, fractures, rickets-like deformities.
+3. Diagnosis:
+•	Low serum alkaline phosphatase, genetic testing, radiographs.
+4. Treatment and Management:
+•	Enzyme replacement therapy, supportive care, fracture management.
+5. Prevention:
+•	Genetic counseling.
+101. Gout
+1. Classifications and Causes:
+•	Classification: Metabolic disorder.
+•	Causes: Hyperuricemia due to overproduction or underexcretion of uric acid.
+2. Symptoms and Signs:
+•	Sudden joint pain (especially big toe), redness, swelling, tophi formation.
+3. Diagnosis:
+•	Serum uric acid levels, joint fluid analysis, X-rays.
+4. Treatment and Management:
+•	NSAIDs, colchicine, urate-lowering therapy, lifestyle modification.
+5. Prevention:
+•	Limit purine-rich foods, alcohol moderation, maintain hydration.
+________________________________________
+102. Hyperuricemia
+1. Classifications and Causes:
+•	Classification: Metabolic disorder.
+•	Causes: Genetic factors, kidney disease, diet, medications.
+2. Symptoms and Signs:
+•	Often asymptomatic, may lead to gout or kidney stones.
+3. Diagnosis:
+•	Serum uric acid levels.
+4. Treatment and Management:
+•	Lifestyle modification, urate-lowering drugs, hydration.
+5. Prevention:
+•	Maintain healthy diet, avoid excessive alcohol, manage comorbidities.
+________________________________________
+103. Wilson’s Disease
+1. Classifications and Causes:
+•	Classification: Genetic metabolic disorder.
+•	Causes: Mutation in ATP7B gene leading to copper accumulation.
+2. Symptoms and Signs:
+•	Liver disease, neurological symptoms, psychiatric disturbances, Kayser-Fleischer rings.
+3. Diagnosis:
+•	Serum ceruloplasmin, 24-hour urinary copper, liver biopsy, genetic testing.
+4. Treatment and Management:
+•	Chelating agents (penicillamine), zinc therapy, liver transplant if severe.
+5. Prevention:
+•	Genetic counseling, early detection.
+________________________________________
+104. Hemochromatosis
+1. Classifications and Causes:
+•	Classification: Genetic metabolic disorder.
+•	Causes: HFE gene mutation causing iron overload.
+2. Symptoms and Signs:
+•	Fatigue, joint pain, liver cirrhosis, diabetes, bronze skin.
+3. Diagnosis:
+•	Serum ferritin, transferrin saturation, genetic testing, liver biopsy.
+4. Treatment and Management:
+•	Phlebotomy, chelation therapy, dietary modification.
+5. Prevention:
+•	Genetic counseling, early monitoring of iron levels.
+________________________________________
+105. Porphyria
+1. Classifications and Causes:
+•	Classification: Metabolic disorder.
+•	Causes: Defects in heme biosynthesis enzymes (various types).
+2. Symptoms and Signs:
+•	Abdominal pain, neurological symptoms, photosensitivity, urine discoloration.
+3. Diagnosis:
+•	Urinary and plasma porphyrin levels, genetic testing.
+4. Treatment and Management:
+•	Avoid triggers, hemin therapy, supportive care.
+5. Prevention:
+•	Avoid precipitating drugs and alcohol, genetic counseling.
+________________________________________
+106. Phenylketonuria (PKU)
+1. Classifications and Causes:
+•	Classification: Genetic metabolic disorder.
+•	Causes: Mutation in PAH gene leading to phenylalanine accumulation.
+2. Symptoms and Signs:
+•	Intellectual disability, seizures, fair skin, musty odor.
+3. Diagnosis:
+•	Newborn screening, serum phenylalanine levels, genetic testing.
+4. Treatment and Management:
+•	Low-phenylalanine diet, medical formulas.
+5. Prevention:
+•	Newborn screening, genetic counseling.
+________________________________________
+107. Maple Syrup Urine Disease (MSUD)
+1. Classifications and Causes:
+•	Classification: Genetic metabolic disorder.
+•	Causes: Deficiency in branched-chain alpha-ketoacid dehydrogenase.
+2. Symptoms and Signs:
+•	Sweet-smelling urine, poor feeding, developmental delay, lethargy.
+3. Diagnosis:
+•	Plasma amino acids, urine organic acids, genetic testing.
+4. Treatment and Management:
+•	Dietary restriction of branched-chain amino acids, thiamine supplementation.
+5. Prevention:
+•	Genetic counseling, newborn screening.
+________________________________________
+108. Galactosemia
+1. Classifications and Causes:
+•	Classification: Genetic metabolic disorder.
+•	Causes: Deficiency of galactose-1-phosphate uridyltransferase (GALT).
+2. Symptoms and Signs:
+•	Vomiting, jaundice, hepatomegaly, cataracts, intellectual disability.
+3. Diagnosis:
+•	Newborn screening, enzyme assay, genetic testing.
+4. Treatment and Management:
+•	Galactose-free diet, supportive therapy.
+5. Prevention:
+•	Newborn screening, genetic counseling.
+________________________________________
+109. Fructose Intolerance
+1. Classifications and Causes:
+•	Classification: Genetic metabolic disorder.
+•	Causes: Aldolase B deficiency.
+2. Symptoms and Signs:
+•	Hypoglycemia, vomiting, abdominal pain, liver dysfunction after fructose ingestion.
+3. Diagnosis:
+•	Genetic testing, enzyme assay, fructose challenge.
+4. Treatment and Management:
+•	Avoid fructose, sucrose, sorbitol; supportive care.
+5. Prevention:
+•	Genetic counseling, dietary education.
+________________________________________
+110. Glycogen Storage Disease (GSD Type I, Von Gierke Disease)
+1. Classifications and Causes:
+•	Classification: Genetic metabolic disorder.
+•	Causes: Glucose-6-phosphatase deficiency.
+2. Symptoms and Signs:
+•	Hypoglycemia, hepatomegaly, lactic acidosis, growth retardation.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, liver biopsy.
+4. Treatment and Management:
+•	Frequent feeding, cornstarch therapy, liver transplantation in severe cases.
+5. Prevention:
+•	Genetic counseling, early dietary management.
+111. Gaucher Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Glucocerebrosidase deficiency due to GBA gene mutation.
+2. Symptoms and Signs:
+•	Hepatosplenomegaly, anemia, thrombocytopenia, bone pain.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, bone marrow biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, substrate reduction therapy, supportive care.
+5. Prevention:
+•	Genetic counseling, prenatal diagnosis.
+________________________________________
+112. Fabry Disease
+1. Classifications and Causes:
+•	Classification: X-linked lysosomal storage disorder.
+•	Causes: Alpha-galactosidase A deficiency due to GLA gene mutation.
+2. Symptoms and Signs:
+•	Pain crises, angiokeratomas, renal failure, cardiac involvement.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, kidney biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, supportive care for organ involvement.
+5. Prevention:
+•	Genetic counseling, early detection.
+________________________________________
+113. Niemann-Pick Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Deficiency of sphingomyelinase or NPC1/NPC2 mutations.
+2. Symptoms and Signs:
+•	Hepatosplenomegaly, neurological deterioration, cherry-red macula.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, bone marrow biopsy.
+4. Treatment and Management:
+•	Supportive care, enzyme replacement therapy in some types, bone marrow transplant.
+5. Prevention:
+•	Genetic counseling, prenatal diagnosis.
+________________________________________
+114. Tay-Sachs Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Hexosaminidase A deficiency due to HEXA gene mutation.
+2. Symptoms and Signs:
+•	Progressive neurodegeneration, cherry-red spot on macula, developmental delay.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, prenatal screening.
+4. Treatment and Management:
+•	Supportive care; no cure.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+115. Krabbe Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Galactocerebrosidase deficiency due to GALC gene mutation.
+2. Symptoms and Signs:
+•	Psychomotor regression, spasticity, seizures, irritability.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, MRI of brain.
+4. Treatment and Management:
+•	Hematopoietic stem cell transplantation (early), supportive care.
+5. Prevention:
+•	Genetic counseling, newborn screening.
+________________________________________
+116. Metachromatic Leukodystrophy
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Arylsulfatase A deficiency.
+2. Symptoms and Signs:
+•	Motor regression, hypotonia, ataxia, cognitive decline.
+3. Diagnosis:
+•	Enzyme assay, MRI of brain, genetic testing.
+4. Treatment and Management:
+•	Hematopoietic stem cell transplant, supportive care.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+117. Pompe Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Acid alpha-glucosidase deficiency due to GAA gene mutation.
+2. Symptoms and Signs:
+•	Cardiomyopathy, hypotonia, muscle weakness, respiratory difficulties.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, muscle biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, supportive care, respiratory management.
+5. Prevention:
+•	Genetic counseling, newborn screening.
+________________________________________
+118. Mucopolysaccharidosis (Hurler Syndrome, MPS I)
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Alpha-L-iduronidase deficiency.
+2. Symptoms and Signs:
+•	Coarse facial features, hepatosplenomegaly, skeletal deformities, developmental delay.
+3. Diagnosis:
+•	Urinary glycosaminoglycan levels, enzyme assay, genetic testing.
+4. Treatment and Management:
+•	Enzyme replacement therapy, hematopoietic stem cell transplantation, supportive care.
+5. Prevention:
+•	Genetic counseling, early detection.
+________________________________________
+119. Mucopolysaccharidosis Type II (Hunter Syndrome)
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder (X-linked).
+•	Causes: Iduronate-2-sulfatase deficiency.
+2. Symptoms and Signs:
+•	Coarse facial features, growth delay, hepatosplenomegaly, joint stiffness.
+3. Diagnosis:
+•	Urinary glycosaminoglycan analysis, enzyme assay, genetic testing.
+4. Treatment and Management:
+•	Enzyme replacement therapy, supportive care.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+120. Sanfilippo Syndrome (MPS III)
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Deficiency of one of the enzymes needed to degrade heparan sulfate.
+2. Symptoms and Signs:
+•	Severe neurodegeneration, behavioral problems, mild skeletal abnormalities.
+3. Diagnosis:
+•	Urinary glycosaminoglycan testing, enzyme assay, genetic testing.
+4. Treatment and Management:
+•	Supportive care, experimental enzyme therapies.
+5. Prevention:
+•	Genetic counseling, carrier screening.
+121. Huntington’s Disease
+1. Classifications and Causes:
+•	Classification: Genetic neurodegenerative disorder.
+•	Causes: CAG trinucleotide repeat expansion in HTT gene.
+2. Symptoms and Signs:
+•	Chorea, cognitive decline, psychiatric disturbances.
+3. Diagnosis:
+•	Genetic testing, neurological examination, family history.
+4. Treatment and Management:
+•	Symptomatic management (tetrabenazine, antipsychotics), supportive care.
+5. Prevention:
+•	Genetic counseling, preimplantation genetic diagnosis.
+________________________________________
+122. Parkinson’s Disease
+1. Classifications and Causes:
+•	Classification: Neurodegenerative disorder.
+•	Causes: Loss of dopaminergic neurons in substantia nigra; genetic and environmental factors.
+2. Symptoms and Signs:
+•	Tremor, rigidity, bradykinesia, postural instability.
+3. Diagnosis:
+•	Clinical evaluation, response to dopaminergic therapy, imaging in atypical cases.
+4. Treatment and Management:
+•	Levodopa/carbidopa, dopamine agonists, physiotherapy, deep brain stimulation.
+5. Prevention:
+•	No definitive prevention; exercise and healthy lifestyle may reduce risk.
+________________________________________
+123. Alzheimer’s Disease
+1. Classifications and Causes:
+•	Classification: Neurodegenerative disorder.
+•	Causes: Beta-amyloid plaques and tau tangles; genetic (APP, PSEN1/2) and environmental factors.
+2. Symptoms and Signs:
+•	Memory loss, confusion, impaired judgment, behavioral changes.
+3. Diagnosis:
+•	Clinical assessment, cognitive tests, MRI/PET imaging, biomarker analysis.
+4. Treatment and Management:
+•	Cholinesterase inhibitors, NMDA receptor antagonists, supportive care, cognitive therapy.
+5. Prevention:
+•	Healthy lifestyle, cognitive stimulation, control of cardiovascular risk factors.
+________________________________________
+124. Amyotrophic Lateral Sclerosis (ALS)
+1. Classifications and Causes:
+•	Classification: Neurodegenerative disorder.
+•	Causes: Motor neuron degeneration; mostly sporadic, some familial (SOD1, C9orf72 mutations).
+2. Symptoms and Signs:
+•	Muscle weakness, atrophy, fasciculations, spasticity.
+3. Diagnosis:
+•	Electromyography, nerve conduction studies, clinical evaluation.
+4. Treatment and Management:
+•	Riluzole, edaravone, supportive care, physiotherapy, respiratory support.
+5. Prevention:
+•	No definitive prevention; early management improves quality of life.
+________________________________________
+125. Spinocerebellar Ataxia
+1. Classifications and Causes:
+•	Classification: Genetic neurodegenerative disorder.
+•	Causes: Trinucleotide repeat expansions in various genes.
+2. Symptoms and Signs:
+•	Progressive ataxia, dysarthria, ocular disturbances.
+3. Diagnosis:
+•	Genetic testing, MRI, clinical evaluation.
+4. Treatment and Management:
+•	Symptomatic management, physiotherapy, supportive care.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+126. Friedreich’s Ataxia
+1. Classifications and Causes:
+•	Classification: Genetic neurodegenerative disorder.
+•	Causes: GAA trinucleotide repeat expansion in FXN gene.
+2. Symptoms and Signs:
+•	Progressive gait ataxia, dysarthria, cardiomyopathy, scoliosis.
+3. Diagnosis:
+•	Genetic testing, clinical evaluation, electromyography.
+4. Treatment and Management:
+•	Symptomatic treatment, physiotherapy, cardiac management.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+127. Multiple Sclerosis
+1. Classifications and Causes:
+•	Classification: Autoimmune demyelinating disorder.
+•	Causes: Autoimmune attack on CNS myelin; genetic and environmental factors.
+2. Symptoms and Signs:
+•	Weakness, sensory disturbances, vision problems, fatigue, spasticity.
+3. Diagnosis:
+•	MRI, CSF analysis (oligoclonal bands), evoked potentials.
+4. Treatment and Management:
+•	Disease-modifying therapies (interferons, monoclonal antibodies), corticosteroids for relapses, physiotherapy.
+5. Prevention:
+•	No definitive prevention; vitamin D sufficiency and healthy lifestyle may help.
+________________________________________
+128. Guillain-Barré Syndrome
+1. Classifications and Causes:
+•	Classification: Autoimmune peripheral neuropathy.
+•	Causes: Post-infectious immune response (e.g., Campylobacter jejuni).
+2. Symptoms and Signs:
+•	Ascending muscle weakness, paresthesia, areflexia.
+3. Diagnosis:
+•	Clinical evaluation, nerve conduction studies, CSF analysis.
+4. Treatment and Management:
+•	IV immunoglobulin, plasmapheresis, supportive care, physiotherapy.
+5. Prevention:
+•	No definitive prevention; early treatment reduces complications.
+________________________________________
+129. Myasthenia Gravis
+1. Classifications and Causes:
+•	Classification: Autoimmune neuromuscular disorder.
+•	Causes: Autoantibodies against acetylcholine receptors or MuSK.
+2. Symptoms and Signs:
+•	Fluctuating muscle weakness, ptosis, diplopia, dysphagia.
+3. Diagnosis:
+•	Antibody testing, EMG, edrophonium test, imaging for thymoma.
+4. Treatment and Management:
+•	Acetylcholinesterase inhibitors, immunosuppressants, thymectomy, plasmapheresis.
+5. Prevention:
+•	Early diagnosis, avoid triggers.
+________________________________________
+130. Lambert-Eaton Myasthenic Syndrome (LEMS)
+1. Classifications and Causes:
+•	Classification: Autoimmune neuromuscular disorder.
+•	Causes: Autoantibodies against presynaptic voltage-gated calcium channels, often paraneoplastic (small cell lung cancer).
+2. Symptoms and Signs:
+•	Proximal muscle weakness, autonomic dysfunction, reduced tendon reflexes.
+3. Diagnosis:
+•	Electromyography, antibody testing, cancer screening.
+4. Treatment and Management:
+•	Treat underlying malignancy, immunotherapy, 3,4-DAP (amifampridine).
+5. Prevention:
+•	Early cancer detection, genetic counseling if familial.
+131. Rett Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic neurodevelopmental disorder.
+•	Causes: Mutation in MECP2 gene (mostly females).
+2. Symptoms and Signs:
+•	Regression of motor and language skills, hand-wringing, seizures, microcephaly.
+3. Diagnosis:
+•	Genetic testing, clinical criteria, EEG.
+4. Treatment and Management:
+•	Supportive care, physiotherapy, seizure management, occupational therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+132. Angelman Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic neurodevelopmental disorder.
+•	Causes: Deletion or mutation of maternal UBE3A gene on chromosome 15.
+2. Symptoms and Signs:
+•	Developmental delay, speech impairment, ataxia, frequent laughter, seizures.
+3. Diagnosis:
+•	Genetic testing, clinical evaluation.
+4. Treatment and Management:
+•	Supportive care, anti-seizure medications, physical and speech therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+133. Prader-Willi Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic neurodevelopmental disorder.
+•	Causes: Loss of paternal gene expression on chromosome 15q11-q13.
+2. Symptoms and Signs:
+•	Hypotonia, hyperphagia, obesity, short stature, developmental delays.
+3. Diagnosis:
+•	Genetic testing (methylation analysis), clinical evaluation.
+4. Treatment and Management:
+•	Growth hormone therapy, dietary management, behavioral therapy.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+134. Down Syndrome (Trisomy 21)
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Trisomy 21 (extra chromosome 21).
+2. Symptoms and Signs:
+•	Intellectual disability, characteristic facial features, hypotonia, congenital heart defects.
+3. Diagnosis:
+•	Prenatal screening (ultrasound, maternal serum), karyotyping.
+4. Treatment and Management:
+•	Supportive care, early intervention programs, management of comorbidities.
+5. Prevention:
+•	Prenatal screening, maternal age considerations.
+________________________________________
+135. Edwards Syndrome (Trisomy 18)
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Trisomy 18.
+2. Symptoms and Signs:
+•	Severe intellectual disability, congenital heart defects, micrognathia, clenched fists.
+3. Diagnosis:
+•	Prenatal screening, karyotyping.
+4. Treatment and Management:
+•	Supportive care, palliative measures, management of congenital anomalies.
+5. Prevention:
+•	Prenatal screening, genetic counseling.
+________________________________________
+136. Patau Syndrome (Trisomy 13)
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Trisomy 13.
+2. Symptoms and Signs:
+•	Severe intellectual disability, cleft lip/palate, microphthalmia, congenital heart defects.
+3. Diagnosis:
+•	Prenatal screening, karyotyping.
+4. Treatment and Management:
+•	Supportive and palliative care, surgical interventions where feasible.
+5. Prevention:
+•	Prenatal screening, genetic counseling.
+________________________________________
+137. Turner Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Monosomy X (45,X) or mosaicism.
+2. Symptoms and Signs:
+•	Short stature, webbed neck, gonadal dysgenesis, heart defects.
+3. Diagnosis:
+•	Karyotyping, echocardiography.
+4. Treatment and Management:
+•	Growth hormone therapy, estrogen replacement therapy, cardiac monitoring.
+5. Prevention:
+•	Prenatal diagnosis, genetic counseling.
+________________________________________
+138. Klinefelter Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Extra X chromosome (47,XXY).
+2. Symptoms and Signs:
+•	Tall stature, small testes, hypogonadism, infertility.
+3. Diagnosis:
+•	Karyotyping, hormone assays.
+4. Treatment and Management:
+•	Testosterone replacement therapy, fertility counseling, psychosocial support.
+5. Prevention:
+•	Genetic counseling.
+________________________________________
+139. Cri-du-Chat Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Deletion of the short arm of chromosome 5 (5p-).
+2. Symptoms and Signs:
+•	High-pitched cat-like cry, microcephaly, intellectual disability, facial dysmorphism.
+3. Diagnosis:
+•	Chromosomal analysis, FISH testing.
+4. Treatment and Management:
+•	Supportive care, early intervention programs, speech and occupational therapy. 141. Charcot-Marie-Tooth Disease
+•	1. Classifications and Causes:
+•	Classification: Genetic peripheral neuropathy.
+•	Causes: Mutations in genes affecting peripheral nerve myelination or axonal function (e.g., PMP22, MPZ).
+•	2. Symptoms and Signs:
+•	Distal muscle weakness, foot drop, pes cavus, sensory loss.
+•	3. Diagnosis:
+•	Nerve conduction studies, EMG, genetic testing.
+•	4. Treatment and Management:
+•	Physiotherapy, orthotic support, surgical correction of deformities.
+•	5. Prevention:
+Genetic counseling.
+140. Wolf-Hirschhorn Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic chromosomal disorder.
+•	Causes: Deletion on the short arm of chromosome 4 (4p-).
+2. Symptoms and Signs:
+•	Growth delay, intellectual disability, seizures, characteristic facial appearance.
+3. Diagnosis:
+•	Chromosomal analysis, FISH testing.
+4. Treatment and Management:
+•	Supportive care, seizure management, early intervention therapy.
+5. Prevention:
+•	Genetic counseling.
+•	
+•	________________________________________
+•	141. Charcot-Marie-Tooth Disease
+•	1. Classifications and Causes:
+•	Classification: Genetic peripheral neuropathy.
+•	Causes: Mutations in genes affecting peripheral nerve myelination or axonal function (e.g., PMP22, MPZ).
+•	2. Symptoms and Signs:
+•	Distal muscle weakness, foot drop, pes cavus, sensory loss.
+•	3. Diagnosis:
+•	Nerve conduction studies, EMG, genetic testing.
+•	4. Treatment and Management:
+•	Physiotherapy, orthotic support, surgical correction of deformities.
+•	5. Prevention:
+•	Genetic counseling.
+•	________________________________________
+
+•	142. Spinal Muscular Atrophy (SMA)
+•	1. Classifications and Causes:
+•	Classification: Genetic neuromuscular disorder.
+•	Causes: Deletion/mutation in SMN1 gene leading to motor neuron loss.
+•	2. Symptoms and Signs:
+•	Progressive muscle weakness, hypotonia, respiratory difficulties.
+•	3. Diagnosis:
+•	Genetic testing, EMG, clinical evaluation.
+•	4. Treatment and Management:
+•	SMN-enhancing therapies (nusinersen, gene therapy), respiratory support, physiotherapy.
+•	5. Prevention:
+•	Genetic counseling, carrier screening.
+•	________________________________________
+•	143. Duchenne Muscular Dystrophy (DMD)
+•	1. Classifications and Causes:
+•	Classification: X-linked neuromuscular disorder.
+•	Causes: Mutations in DMD gene causing dystrophin deficiency.
+•	2. Symptoms and Signs:
+•	Progressive proximal muscle weakness, Gowers’ sign, calf pseudohypertrophy.
+•	3. Diagnosis:
+•	Genetic testing, creatine kinase levels, muscle biopsy.
+•	4. Treatment and Management:
+•	Corticosteroids, physiotherapy, cardiac and respiratory management.
+•	5. Prevention:
+•	Carrier screening, genetic counseling.
+•	________________________________________
+•	144. Becker Muscular Dystrophy
+•	1. Classifications and Causes:
+•	Classification: X-linked neuromuscular disorder.
+•	Causes: Mutations in DMD gene with partially functional dystrophin.
+•	2. Symptoms and Signs:
+•	Milder progressive muscle weakness, later onset than DMD.
+•	3. Diagnosis:
+•	Genetic testing, muscle biopsy, creatine kinase levels.
+•	4. Treatment and Management:
+•	Physiotherapy, cardiac management, supportive care.
+•	5. Prevention:
+•	Genetic counseling.
+•	________________________________________
+•	145. Myotonic Dystrophy
+•	1. Classifications and Causes:
+•	Classification: Genetic muscular disorder.
+•	Causes: CTG repeat expansion in DMPK gene (Type 1) or CCTG in CNBP gene (Type 2).
+•	2. Symptoms and Signs:
+•	Muscle weakness, myotonia, cataracts, cardiac conduction defects.
+•	3. Diagnosis:
+•	Genetic testing, EMG, clinical evaluation.
+•	4. Treatment and Management:
+•	Symptomatic management, cardiac monitoring, physiotherapy.
+•	5. Prevention:
+•	Genetic counseling.
+•	________________________________________
+•	146. Limb-Girdle Muscular Dystrophy (LGMD)
+•	1. Classifications and Causes:
+•	Classification: Genetic muscular disorder.
+•	Causes: Mutations in multiple genes affecting sarcoglycan or other proteins.
+•	2. Symptoms and Signs:
+•	Proximal muscle weakness, difficulty climbing stairs, gait disturbances.
+•	3. Diagnosis:
+•	Genetic testing, EMG, muscle biopsy.
+•	4. Treatment and Management:
+•	Physiotherapy, assistive devices, cardiac monitoring.
+•	5. Prevention:
+•	Genetic counseling.
+•	________________________________________
+•	147. Congenital Muscular Dystrophy
+•	1. Classifications and Causes:
+•	Classification: Genetic muscular disorder.
+•	Causes: Mutations in genes affecting dystrophin-glycoprotein complex (e.g., LAMA2, COL6A).
+•	2. Symptoms and Signs:
+•	Hypotonia, delayed motor milestones, joint contractures.
+•	3. Diagnosis:
+•	Genetic testing, muscle biopsy, MRI of muscles.
+•	4. Treatment and Management:
+•	Supportive care, physiotherapy, orthopedic interventions.
+•	5. Prevention:
+•	Genetic counseling.
+•	________________________________________
+•	148. Congenital Myasthenic Syndromes
+•	1. Classifications and Causes:
+•	Classification: Genetic neuromuscular junction disorder.
+•	Causes: Mutations in genes affecting acetylcholine receptor function or synaptic proteins.
+•	2. Symptoms and Signs:
+•	Muscle weakness from birth or infancy, fatigability, ptosis.
+•	3. Diagnosis:
+•	EMG, genetic testing, clinical evaluation.
+•	4. Treatment and Management:
+•	Acetylcholinesterase inhibitors, supportive care, physiotherapy.
+•	5. Prevention:
+•	Genetic counseling.
+•	________________________________________
+•	149. Hypokalemic Periodic Paralysis
+•	1. Classifications and Causes:
+•	Classification: Genetic channelopathy.
+•	Causes: Mutations in voltage-gated calcium or sodium channels.
+•	2. Symptoms and Signs:
+•	Episodic muscle weakness, triggered by rest after exercise or high-carb meals.
+•	3. Diagnosis:
+•	Serum potassium during attacks, genetic testing, EMG.
+•	4. Treatment and Management:
+•	Potassium supplementation during attacks, carbonic anhydrase inhibitors, lifestyle modifications.
+•	5. Prevention:
+•	Avoid triggers, regular monitoring.
+•	________________________________________
+•	150. Hyperkalemic Periodic Paralysis
+•	1. Classifications and Causes:
+•	Classification: Genetic channelopathy.
+•	Causes: Mutations in SCN4A gene (voltage-gated sodium channels).
+•	2. Symptoms and Signs:
+•	Episodic muscle weakness, often with mild hyperkalemia.
+•	3. Diagnosis:
+•	Serum potassium during attacks, genetic testing.
+•	4. Treatment and Management:
+•	Avoid potassium-rich foods during attacks, thiazide diuretics, supportive care.
+•	5. Prevention:
+•	Avoid triggers, genetic couns.eling
+•	
+•	151. Andersen-Tawil Syndrome
+•	1. Classifications and Causes:
+•	Classification: Genetic channelopathy.
+•	Causes: Mutations in KCNJ2 gene affecting potassium channels.
+•	2. Symptoms and Signs:
+•	Periodic paralysis, cardiac arrhythmias, dysmorphic features.
+•	3. Diagnosis:
+•	ECG, genetic testing, clinical evaluation.
+•	4. Treatment and Management:
+•	Avoid triggers, potassium supplementation, antiarrhythmic therapy.
+•	5. Prevention:
+•	Genetic counseling, monitoring of cardiac function.
+•	________________________________________
+•	152. Long QT Syndrome
+•	1. Classifications and Causes:
+•	Classification: Genetic channelopathy.
+•	Causes: Mutations in genes encoding cardiac ion channels (e.g., KCNQ1, KCNH2).
+•	2. Symptoms and Signs:
+•	Syncope, palpitations, sudden cardiac death.
+•	3. Diagnosis:
+•	ECG (prolonged QT interval), genetic testing, family history.
+•	4. Treatment and Management:
+•	Beta-blockers, implantable cardioverter-defibrillator (ICD), lifestyle modification.
+•	5. Prevention:
+•	Avoid QT-prolonging drugs, genetic counseling, regular cardiac monitoring.
+•	________________________________________
+•	153. Brugada Syndrome
+•	1. Classifications and Causes:
+•	Classification: Genetic cardiac arrhythmia disorder.
+•	Causes: SCN5A gene mutations affecting sodium channels.
+•	2. Symptoms and Signs:
+•	Syncope, palpitations, sudden cardiac death, characteristic ECG pattern.
+•	3. Diagnosis:
+•	ECG, genetic testing, electrophysiological studies.
+•	4. Treatment and Management:
+•	ICD implantation, avoidance of fever and certain drugs, supportive care.
+•	5. Prevention:
+•	Genetic counseling, family screening.
+•	________________________________________
+•	154. Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)
+•	1. Classifications and Causes:
+•	Classification: Genetic arrhythmogenic disorder.
+•	Causes: Mutations in RYR2 or CASQ2 genes affecting calcium handling.
+•	2. Symptoms and Signs:
+•	Exercise or stress-induced syncope, sudden cardiac death.
+•	3. Diagnosis:
+•	Exercise stress test, Holter monitoring, genetic testing.
+•	4. Treatment and Management:
+•	Beta-blockers, ICD implantation, lifestyle modification.
+•	5. Prevention:
+•	Avoid strenuous exercise, genetic counseling.
+•	________________________________________
+•	155. Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC)
+•	1. Classifications and Causes:
+•	Classification: Genetic cardiomyopathy.
+•	Causes: Mutations in desmosomal proteins (PKP2, DSP, DSG2).
+•	2. Symptoms and Signs:
+•	Ventricular arrhythmias, palpitations, syncope, heart failure.
+•	3. Diagnosis:
+•	ECG, echocardiography, cardiac MRI, genetic testing.
+•	4. Treatment and Management:
+•	ICD implantation, antiarrhythmic drugs, lifestyle modification.
+•	5. Prevention:
+•	Genetic counseling, regular cardiac monitoring.
+•	________________________________________
+•	156. Hypertrophic Cardiomyopathy
+•	1. Classifications and Causes:
+•	Classification: Genetic cardiomyopathy.
+•	Causes: Mutations in sarcomeric proteins (MYH7, MYBPC3).
+•	2. Symptoms and Signs:
+•	Dyspnea, chest pain, syncope, sudden cardiac death.
+•	3. Diagnosis:
+•	Echocardiography, ECG, genetic testing, cardiac MRI.
+•	4. Treatment and Management:
+•	Beta-blockers, calcium channel blockers, surgical septal myectomy, ICD.
+•	5. Prevention:
+•	Family screening, genetic counseling, avoidance of strenuous activity.
+•	________________________________________
+•	157. Dilated Cardiomyopathy
+•	1. Classifications and Causes:
+•	Classification: Genetic and acquired cardiomyopathy.
+•	Causes: Genetic mutations, viral myocarditis, alcohol, toxins.
+•	2. Symptoms and Signs:
+•	Heart failure symptoms, arrhythmias, thromboembolism.
+•	3. Diagnosis:
+•	Echocardiography, ECG, MRI, genetic testing.
+•	4. Treatment and Management:
+•	Heart failure therapy (ACE inhibitors, beta-blockers), ICD, transplantation.
+•	5. Prevention:
+•	Avoid cardiotoxins, treat underlying causes, genetic counseling.
+•	________________________________________
+•	158. Restrictive Cardiomyopathy
+•	1. Classifications and Causes:
+•	Classification: Cardiomyopathy.
+•	Causes: Amyloidosis, sarcoidosis, hemochromatosis, idiopathic.
+•	2. Symptoms and Signs:
+•	Dyspnea, fatigue, edema, exercise intolerance.
+•	3. Diagnosis:
+•	Echocardiography, cardiac MRI, biopsy.
+•	4. Treatment and Management:
+•	Treat underlying cause, diuretics, heart transplantation in severe cases.
+•	5. Prevention:
+•	Manage underlying systemic diseases.
+•	________________________________________
+•	159. Takotsubo Cardiomyopathy (Stress-Induced)
+•	1. Classifications and Causes:
+•	Classification: Acquired cardiomyopathy.
+•	Causes: Acute stress, catecholamine surge.
+•	2. Symptoms and Signs:
+•	Chest pain, dyspnea, ECG changes mimicking myocardial infarction.
+•	3. Diagnosis:
+•	Echocardiography, coronary angiography, cardiac MRI.
+•	4. Treatment and Management:
+•	Supportive care, beta-blockers, ACE inhibitors, monitoring.
+•	5. Prevention:
+•	Stress management, early recognition of triggers.
+•	________________________________________
+•	160. Peripartum Cardiomyopathy
+•	1. Classifications and Causes:
+•	Classification: Acquired cardiomyopathy.
+•	Causes: Unknown; risk factors include multiparity, preeclampsia, advanced maternal age.
+•	2. Symptoms and Signs:
+•	Heart failure symptoms in late pregnancy or postpartum, fatigue, dyspnea.
+•	3. Diagnosis:
+•	Echocardiography, ECG, exclusion of other causes.
+•	4. Treatment and Management:
+•	Heart failure therapy (diuretics, beta-blockers, ACE inhibitors postpartum), anticoagulation if indicated.
+•	5. Prevention:
+•	Early postpartum monitoring in high-risk patients, management of risk factors.
+
+161. Pulmonary Arterial Hypertension (PAH)
+1. Classifications and Causes:
+•	Classification: Pulmonary vascular disorder.
+•	Causes: Idiopathic, heritable (BMPR2 mutation), drug-induced, connective tissue diseases.
+2. Symptoms and Signs:
+•	Dyspnea on exertion, fatigue, syncope, chest pain.
+3. Diagnosis:
+•	Echocardiography, right heart catheterization, pulmonary function tests.
+4. Treatment and Management:
+•	Vasodilators (prostacyclin analogs, endothelin receptor antagonists, PDE5 inhibitors), oxygen therapy, anticoagulation.
+5. Prevention:
+•	Avoid high-risk drugs, manage underlying conditions, genetic counseling for familial cases.
+________________________________________
+162. Chronic Thromboembolic Pulmonary Hypertension (CTEPH)
+1. Classifications and Causes:
+•	Classification: Pulmonary hypertension due to chronic thromboembolism.
+•	Causes: Recurrent pulmonary embolism, thrombophilia.
+2. Symptoms and Signs:
+•	Progressive dyspnea, fatigue, edema, chest discomfort.
+3. Diagnosis:
+•	V/Q scan, CT pulmonary angiography, right heart catheterization.
+4. Treatment and Management:
+•	Pulmonary endarterectomy, medical therapy (riociguat), anticoagulation.
+5. Prevention:
+•	Early anticoagulation after acute PE, manage risk factors for thrombosis.
+________________________________________
+163. Idiopathic Pulmonary Fibrosis (IPF)
+1. Classifications and Causes:
+•	Classification: Interstitial lung disease.
+•	Causes: Unknown; possible genetic predisposition, environmental exposures.
+2. Symptoms and Signs:
+•	Progressive dyspnea, dry cough, clubbing, fatigue.
+3. Diagnosis:
+•	HRCT chest, lung biopsy if needed, pulmonary function tests.
+4. Treatment and Management:
+•	Antifibrotic therapy (pirfenidone, nintedanib), oxygen therapy, lung transplantation.
+5. Prevention:
+•	Avoid environmental lung irritants, smoking cessation, vaccination.
+________________________________________
+164. Sarcoidosis
+1. Classifications and Causes:
+•	Classification: Multisystem granulomatous disorder.
+•	Causes: Unknown; immune dysregulation, genetic susceptibility, environmental triggers.
+2. Symptoms and Signs:
+•	Pulmonary involvement (cough, dyspnea), skin lesions, uveitis, lymphadenopathy.
+3. Diagnosis:
+•	Biopsy showing non-caseating granulomas, imaging (chest X-ray, CT), ACE levels.
+4. Treatment and Management:
+•	Corticosteroids, immunosuppressants, organ-specific supportive therapy.
+5. Prevention:
+•	No definitive prevention; early detection and monitoring.
+________________________________________
+165. Pulmonary Langerhans Cell Histiocytosis
+1. Classifications and Causes:
+•	Classification: Rare interstitial lung disease.
+•	Causes: Proliferation of Langerhans cells; strongly associated with smoking.
+2. Symptoms and Signs:
+•	Cough, dyspnea, spontaneous pneumothorax, weight loss.
+3. Diagnosis:
+•	HRCT chest, lung biopsy, immunohistochemistry (CD1a, Langerin).
+4. Treatment and Management:
+•	Smoking cessation, corticosteroids in severe cases, lung transplantation.
+5. Prevention:
+•	Avoid smoking, regular monitoring in high-risk individuals.
+________________________________________
+166. Goodpasture Syndrome
+1. Classifications and Causes:
+•	Classification: Autoimmune vasculitis.
+•	Causes: Autoantibodies against basement membrane of lungs and kidneys (anti-GBM antibodies).
+2. Symptoms and Signs:
+•	Hemoptysis, dyspnea, glomerulonephritis, hematuria.
+3. Diagnosis:
+•	Anti-GBM antibody testing, renal biopsy, chest imaging.
+4. Treatment and Management:
+•	Plasmapheresis, corticosteroids, immunosuppressive therapy.
+5. Prevention:
+•	No definitive prevention; early detection reduces morbidity.
+________________________________________
+167. Granulomatosis with Polyangiitis (Wegener’s)
+1. Classifications and Causes:
+•	Classification: ANCA-associated vasculitis.
+•	Causes: Autoimmune; exact trigger unknown.
+2. Symptoms and Signs:
+•	Sinusitis, nasal ulcers, hematuria, pulmonary infiltrates.
+3. Diagnosis:
+•	c-ANCA (PR3) testing, biopsy of affected tissue, imaging.
+4. Treatment and Management:
+•	Corticosteroids, cyclophosphamide, rituximab.
+5. Prevention:
+•	No definitive prevention; early treatment reduces organ damage.
+________________________________________
+168. Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss)
+1. Classifications and Causes:
+•	Classification: ANCA-associated vasculitis.
+•	Causes: Autoimmune; associated with asthma and eosinophilia.
+2. Symptoms and Signs:
+•	Asthma, eosinophilia, neuropathy, skin lesions.
+3. Diagnosis:
+•	Blood eosinophil count, ANCA testing, biopsy of affected tissue.
+4. Treatment and Management:
+•	Corticosteroids, immunosuppressive therapy.
+5. Prevention:
+•	Manage asthma, regular monitoring, early immunosuppressive treatment.
+________________________________________
+169. Microscopic Polyangiitis (MPA)
+1. Classifications and Causes:
+•	Classification: ANCA-associated vasculitis.
+•	Causes: Autoimmune; small-vessel vasculitis.
+2. Symptoms and Signs:
+•	Renal involvement, pulmonary hemorrhage, skin purpura.
+3. Diagnosis:
+•	p-ANCA (MPO) testing, biopsy, imaging.
+4. Treatment and Management:
+•	Corticosteroids, cyclophosphamide, rituximab.
+5. Prevention:
+•	Early diagnosis, immunosuppressive therapy to prevent relapses.
+________________________________________
+170. Behçet’s Disease
+1. Classifications and Causes:
+•	Classification: Systemic vasculitis.
+•	Causes: Autoimmune; genetic predisposition (HLA-B51).
+2. Symptoms and Signs:
+•	Oral and genital ulcers, uveitis, skin lesions, vascular involvement.
+3. Diagnosis:
+•	Clinical criteria, pathergy test, imaging for vascular lesions.
+4. Treatment and Management:
+•	Corticosteroids, immunosuppressive agents, TNF-alpha inhibitors.
+5. Prevention:
+•	No definitive prevention; early management of symptoms and regular monitoring.
+171. Kawasaki Disease
+1. Classifications and Causes:
+•	Classification: Pediatric vasculitis.
+•	Causes: Unknown; possible infectious trigger, immune dysregulation.
+2. Symptoms and Signs:
+•	Fever, conjunctivitis, strawberry tongue, rash, lymphadenopathy, coronary artery aneurysms.
+3. Diagnosis:
+•	Clinical criteria (fever >5 days + 4/5 principal features), echocardiography.
+4. Treatment and Management:
+•	IV immunoglobulin (IVIG), aspirin, corticosteroids in refractory cases.
+5. Prevention:
+•	Early diagnosis and treatment reduce coronary complications.
+________________________________________
+172. Takayasu Arteritis
+1. Classifications and Causes:
+•	Classification: Large-vessel vasculitis.
+•	Causes: Autoimmune; unknown trigger, predominantly affects aorta and branches.
+2. Symptoms and Signs:
+•	Claudication, weak pulses, hypertension, fever, fatigue.
+3. Diagnosis:
+•	Imaging (MRI, CT angiography), inflammatory markers (ESR, CRP).
+4. Treatment and Management:
+•	Corticosteroids, immunosuppressive agents, surgical intervention for stenosis.
+5. Prevention:
+•	Early detection and immunosuppressive therapy to prevent vascular damage.
+________________________________________
+173. Polyarteritis Nodosa
+1. Classifications and Causes:
+•	Classification: Medium-vessel vasculitis.
+•	Causes: Autoimmune; sometimes associated with hepatitis B infection.
+2. Symptoms and Signs:
+•	Fever, weight loss, myalgia, neuropathy, renal involvement.
+3. Diagnosis:
+•	Angiography, biopsy of affected tissue, laboratory tests.
+4. Treatment and Management:
+•	Corticosteroids, cyclophosphamide, antiviral therapy if hepatitis B positive.
+5. Prevention:
+•	Control of underlying infections, early immunosuppressive therapy.
+________________________________________
+174. Giant Cell Arteritis (Temporal Arteritis)
+1. Classifications and Causes:
+•	Classification: Large-vessel vasculitis.
+•	Causes: Autoimmune; affects extracranial branches of carotid artery.
+2. Symptoms and Signs:
+•	Headache, jaw claudication, visual disturbances, scalp tenderness.
+3. Diagnosis:
+•	Temporal artery biopsy, ESR/CRP, Doppler ultrasound.
+4. Treatment and Management:
+•	High-dose corticosteroids, immunosuppressants in refractory cases.
+5. Prevention:
+•	Early diagnosis to prevent vision loss.
+________________________________________
+175. Churg-Strauss Syndrome (Eosinophilic Granulomatosis)
+1. Classifications and Causes:
+•	Classification: Small-to-medium vessel vasculitis.
+•	Causes: Autoimmune; often in patients with asthma and eosinophilia.
+2. Symptoms and Signs:
+•	Asthma, eosinophilia, neuropathy, skin lesions.
+3. Diagnosis:
+•	Blood eosinophils, ANCA testing, biopsy.
+4. Treatment and Management:
+•	Corticosteroids, immunosuppressive agents.
+5. Prevention:
+•	Asthma management, early treatment of inflammation.
+________________________________________
+176. IgA Vasculitis (Henoch-Schönlein Purpura)
+1. Classifications and Causes:
+•	Classification: Small-vessel vasculitis.
+•	Causes: IgA immune complex deposition; often follows infection.
+2. Symptoms and Signs:
+•	Palpable purpura, arthralgia, abdominal pain, renal involvement.
+3. Diagnosis:
+•	Clinical criteria, skin/renal biopsy, urinalysis.
+4. Treatment and Management:
+•	Supportive care, corticosteroids in severe cases, monitor renal function.
+5. Prevention:
+•	Prompt treatment of infections, monitoring high-risk children.
+________________________________________
+177. Kawasaki-like Multisystem Inflammatory Syndrome in Children (MIS-C)
+1. Classifications and Causes:
+•	Classification: Pediatric systemic inflammatory disorder.
+•	Causes: Post-SARS-CoV-2 infection immune dysregulation.
+2. Symptoms and Signs:
+•	Fever, rash, conjunctivitis, gastrointestinal symptoms, shock.
+3. Diagnosis:
+•	Clinical criteria, inflammatory markers, echocardiography.
+4. Treatment and Management:
+•	IVIG, corticosteroids, supportive care in ICU if needed.
+5. Prevention:
+•	Vaccination against SARS-CoV-2, early recognition.
+________________________________________
+178. Cogan’s Syndrome
+1. Classifications and Causes:
+•	Classification: Rare autoimmune vasculitis.
+•	Causes: Autoimmune attack on eyes and inner ear.
+2. Symptoms and Signs:
+•	Interstitial keratitis, hearing loss, vertigo, tinnitus.
+3. Diagnosis:
+•	Ophthalmologic and audiologic evaluation, inflammatory markers, biopsy if necessary.
+4. Treatment and Management:
+•	Corticosteroids, immunosuppressive therapy, hearing aids/cochlear implants.
+5. Prevention:
+•	Early treatment to prevent permanent vision/hearing loss.
+________________________________________
+179. Takayasu Arteritis (Recurrent)
+1. Classifications and Causes:
+•	Classification: Large-vessel vasculitis.
+•	Causes: Autoimmune; recurrent inflammation of aorta and major branches.
+2. Symptoms and Signs:
+•	Claudication, pulse deficits, hypertension, fever, fatigue.
+3. Diagnosis:
+•	MRI/CT angiography, inflammatory markers.
+4. Treatment and Management:
+•	Corticosteroids, immunosuppressive therapy, vascular surgery if needed.
+5. Prevention:
+•	Early detection, regular monitoring to prevent vascular complications.
+________________________________________
+180. Polyangiitis Overlap Syndromes
+1. Classifications and Causes:
+•	Classification: Mixed vasculitis (overlapping features of ANCA-associated vasculitis).
+•	Causes: Autoimmune; genetic and environmental factors.
+2. Symptoms and Signs:
+•	Multiorgan involvement: renal, pulmonary, skin, neuropathy.
+3. Diagnosis:
+•	ANCA testing, biopsy, imaging, clinical evaluation.
+4. Treatment and Management:
+•	Corticosteroids, immunosuppressive therapy, organ-specific support.
+5. Prevention:
+•	Early recognition and therapy to prevent organ damage.
+181. Alport Syndrome
+1. Classifications and Causes:
+•	Classification: Genetic kidney disorder.
+•	Causes: Mutations in COL4A5, COL4A3, COL4A4 genes affecting type IV collagen.
+2. Symptoms and Signs:
+•	Hematuria, proteinuria, progressive renal failure, hearing loss, ocular abnormalities.
+3. Diagnosis:
+•	Urinalysis, genetic testing, kidney biopsy, audiometry, ocular examination.
+4. Treatment and Management:
+•	ACE inhibitors/ARBs for proteinuria, renal replacement therapy, hearing aids.
+5. Prevention:
+•	Genetic counseling, early monitoring of at-risk individuals.
+________________________________________
+182. Fabry Disease
+1. Classifications and Causes:
+•	Classification: X-linked lysosomal storage disorder.
+•	Causes: Mutations in GLA gene leading to alpha-galactosidase A deficiency.
+2. Symptoms and Signs:
+•	Pain in extremities (acroparesthesia), angiokeratomas, renal failure, cardiac involvement.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, renal biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, chaperone therapy, supportive care for renal and cardiac complications.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+183. Gaucher Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Mutations in GBA gene causing glucocerebrosidase deficiency.
+2. Symptoms and Signs:
+•	Hepatosplenomegaly, anemia, thrombocytopenia, bone pain/fractures.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, bone marrow biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, substrate reduction therapy, supportive care.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+184. Niemann-Pick Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Mutations in SMPD1 or NPC1/NPC2 genes causing sphingomyelin or cholesterol accumulation.
+2. Symptoms and Signs:
+•	Hepatosplenomegaly, neurodegeneration, cherry-red macula, respiratory distress.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, bone marrow biopsy, imaging.
+4. Treatment and Management:
+•	Supportive care, substrate reduction therapy, experimental therapies.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+185. Pompe Disease
+1. Classifications and Causes:
+•	Classification: Glycogen storage disorder (Type II).
+•	Causes: Mutations in GAA gene causing acid alpha-glucosidase deficiency.
+2. Symptoms and Signs:
+•	Muscle weakness, cardiomyopathy (infantile form), respiratory insufficiency.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, muscle biopsy.
+4. Treatment and Management:
+•	Enzyme replacement therapy, respiratory support, physiotherapy.
+5. Prevention:
+•	Genetic counseling, newborn screening where available.
+________________________________________
+186. Mucopolysaccharidosis (MPS)
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorders.
+•	Causes: Deficiency of enzymes degrading glycosaminoglycans (different types: MPS I-VII).
+2. Symptoms and Signs:
+•	Skeletal abnormalities, coarse facial features, organomegaly, developmental delay.
+3. Diagnosis:
+•	Enzyme assay, urine GAG analysis, genetic testing.
+4. Treatment and Management:
+•	Enzyme replacement therapy, hematopoietic stem cell transplant, supportive care.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+187. Tay-Sachs Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Mutation in HEXA gene causing beta-hexosaminidase A deficiency.
+2. Symptoms and Signs:
+•	Developmental delay, hypotonia, seizures, cherry-red spot in retina.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, clinical evaluation.
+4. Treatment and Management:
+•	Supportive care only; no curative therapy currently.
+5. Prevention:
+•	Carrier screening, prenatal diagnosis, genetic counseling.
+________________________________________
+188. Krabbe Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: Mutation in GALC gene causing galactocerebrosidase deficiency.
+2. Symptoms and Signs:
+•	Irritability, developmental regression, spasticity, seizures.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, MRI.
+4. Treatment and Management:
+•	Hematopoietic stem cell transplant if early, supportive care.
+5. Prevention:
+•	Newborn screening, genetic counseling.
+________________________________________
+189. Metachromatic Leukodystrophy (MLD)
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: ARSA gene mutation leading to arylsulfatase A deficiency.
+2. Symptoms and Signs:
+•	Developmental delay, motor regression, spasticity, peripheral neuropathy.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, MRI showing white matter changes.
+4. Treatment and Management:
+•	Hematopoietic stem cell transplant, supportive care.
+5. Prevention:
+•	Carrier screening, genetic counseling.
+________________________________________
+190. Sandhoff Disease
+1. Classifications and Causes:
+•	Classification: Lysosomal storage disorder.
+•	Causes: HEXB gene mutation causing beta-hexosaminidase A and B deficiency.
+2. Symptoms and Signs:
+•	Neurodegeneration, hypotonia, seizures, cherry-red macula.
+3. Diagnosis:
+•	Enzyme assay, genetic testing, clinical evaluation.
+4. Treatment and Management:
+•	Supportive care; no curative therapy currently.
+5. Prevention:
+•	Genetic counseling, carrier screening.
+
